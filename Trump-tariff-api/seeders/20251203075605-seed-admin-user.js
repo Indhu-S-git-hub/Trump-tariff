@@ -1,5 +1,4 @@
 "use strict";
-
 const bcrypt = require("bcryptjs");
 
 module.exports = {
@@ -23,10 +22,6 @@ module.exports = {
   },
 
   async down(queryInterface, Sequelize) {
-    return queryInterface.bulkDelete(
-      "Users",
-      { email: "admin@tariffintel.com" },
-      {}
-    );
+    return queryInterface.bulkDelete("Users", { email: "admin@tariffintel.com" }, {});
   }
 };
