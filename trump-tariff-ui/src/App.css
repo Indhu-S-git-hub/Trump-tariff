@@ -194,3 +194,220 @@
   color: #2563eb;
   font-weight: 500;
 }
+/* Page background */
+.page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f5f7fb;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+}
+
+/* Central white card */
+.card {
+  width: 520px;
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 32px 40px 28px;
+  box-shadow: 0 20px 40px rgba(15, 23, 42, 0.12);
+  text-align: center;
+}
+
+/* Logo */
+.logo-circle {
+  width: 64px;
+  height: 64px;
+  border-radius: 22px;
+  margin: 0 auto 18px;
+  background: #0d47a1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-icon {
+  color: #ffffff;
+  font-size: 30px;
+}
+
+/* Headings */
+.title {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 600;
+  color: #111827;
+}
+
+.subtitle {
+  margin: 6px 0 24px;
+  font-size: 14px;
+  color: #6b7280;
+}
+
+/* Tabs on login page (safe for signup too) */
+.tabs {
+  display: flex;
+  background: #f3f4f6;
+  border-radius: 24px;
+  padding: 4px;
+  margin-bottom: 20px;
+}
+
+.tab {
+  flex: 1;
+  border: none;
+  border-radius: 20px;
+  background: transparent;
+  padding: 8px 12px;
+  font-size: 14px;
+  color: #6b7280;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+
+.tab.active {
+  background: #ffffff;
+  color: #111827;
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.12);
+}
+
+.tab-icon {
+  font-size: 16px;
+}
+
+/* Form layout */
+.form {
+  margin-top: 8px;
+  text-align: left;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 14px;
+}
+
+.field-label {
+  font-size: 13px;
+  color: #4b5563;
+  margin-bottom: 4px;
+}
+
+/* Text inputs and select share same style */
+.field input,
+.select-input {
+  width: 100%;
+  height: 44px;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+  padding: 0 14px;
+  font-size: 14px;
+  outline: none;
+  background-color: #f9fafb;
+  box-sizing: border-box;
+  transition: border-color 0.15s, box-shadow 0.15s, background-color 0.15s;
+}
+
+.field input:focus,
+.select-input:focus {
+  border-color: #1d4ed8;
+  background-color: #ffffff;
+  box-shadow: 0 0 0 1px rgba(59, 130, 246, 0.35);
+}
+
+/* Remove default select arrow look differences */
+.select-input {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: linear-gradient(45deg, transparent 50%, #6b7280 50%),
+    linear-gradient(135deg, #6b7280 50%, transparent 50%);
+  background-position: calc(100% - 18px) 17px, calc(100% - 12px) 17px;
+  background-size: 6px 6px, 6px 6px;
+  background-repeat: no-repeat;
+}
+
+/* Row with checkbox + forgot link */
+.form-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 8px 0 16px;
+}
+
+.checkbox {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  color: #4b5563;
+}
+
+.checkbox input {
+  width: 16px;
+  height: 16px;
+}
+
+.link-button {
+  border: none;
+  background: none;
+  color: #2563eb;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+/* Error */
+.error {
+  font-size: 13px;
+  color: #b91c1c;
+  background: #fee2e2;
+  border-radius: 8px;
+  padding: 6px 10px;
+  margin-bottom: 10px;
+}
+
+/* Primary button (Login / Sign Up) */
+.login-button {
+  width: 100%;
+  height: 48px;
+  border-radius: 999px;
+  border: none;
+  background: #1d4ed8;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.15s, transform 0.05s, box-shadow 0.15s;
+}
+
+.login-button:hover {
+  background: #1e40af;
+  box-shadow: 0 10px 20px rgba(37, 99, 235, 0.35);
+}
+
+.login-button:active {
+  transform: translateY(1px);
+}
+
+/* Bottom pill link */
+.signup-link {
+  margin-top: 18px;
+  width: 100%;
+  border-radius: 999px;
+  border: none;
+  background: #f9fafb;
+  padding: 10px 12px;
+  font-size: 14px;
+  color: #4b5563;
+  cursor: pointer;
+}
+
+.signup-link span {
+  color: #2563eb;
+  font-weight: 500;
+}
