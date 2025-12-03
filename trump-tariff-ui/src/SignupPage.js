@@ -36,12 +36,12 @@ function SignupPage() {
       const res = await axios.post(`${API_BASE}/api/auth/signup`, {
         email,
         password,
-        role: role.toLowerCase(), // "admin" | "analyst" | "user"
+        role: role.toLowerCase() // "admin" | "analyst" | "user"
       });
 
       console.log("Signup success:", res.data);
 
-      // ✅ redirect to login page after successful signup
+      // Redirect to login page after successful signup
       navigate("/login");
     } catch (err) {
       const msg =
