@@ -12,16 +12,27 @@ function SignupPage() {
 
   const [email, setEmail] = useState("");
   const [role, setRole] = useState("User");
+  const [companyName, setCompanyName] = useState("");
   const [password, setPassword] = useState("");
   const [confirmPassword, setConfirmPassword] = useState("");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
 
+  const handleRoleChange = (e) => {
+    const newRole = e.target.value;
+    setRole(newRole);
+    if (newRole !== "Admin") {
+      setCompanyName("");
+    }
+  };
+
   const handleSignup = async (e) => {
     e.preventDefault();
     setError(null);
 
-    if (!email || !password || !confirmPassword) {
+    const trimmedEmail = email.trim();
+
+    if (!trimmedEmail || !password || !confirmPassword) {
       setError("Please fill all fields.");
       return;
     }
@@ -29,19 +40,29 @@ function SignupPage() {
       setError("Passwords do not match.");
       return;
     }
+    if (role === "Admin" && !companyName.trim()) {
+      setError("Please enter company name for admin.");
+      return;
+    }
 
     try {
       setLoading(true);
 
-      const res = await axios.post(`${API_BASE}/api/auth/signup`, {
-        email,
+      const normalizedRole = role.toLowerCase(); // "admin" | "analyst" | "user"
+
+      const payload = {
+        email: trimmedEmail,
         password,
-        role: role.toLowerCase() // "admin" | "analyst" | "user"
-      });
+        role: normalizedRole,
+        username:
+          role === "Admin"
+            ? companyName.trim()          // company name for admin
+            : trimmedEmail.split("@")[0]  // default username for others
+      };
+
+      const res = await axios.post(`${API_BASE}/api/auth/signup`, payload);
 
       console.log("Signup success:", res.data);
-
-      // Redirect to login page after successful signup
       navigate("/login");
     } catch (err) {
       const msg =
@@ -63,6 +84,18 @@ function SignupPage() {
         <p className="subtitle">Sign up for TariffIntel</p>
 
         <form className="form" onSubmit={handleSignup}>
+          {role === "Admin" && (
+            <label className="field">
+              <span className="field-label">Company Name</span>
+              <input
+                type="text"
+                placeholder="Enter company name"
+                value={companyName}
+                onChange={(e) => setCompanyName(e.target.value)}
+              />
+            </label>
+          )}
+
           <label className="field">
             <span className="field-label">Email</span>
             <input
@@ -78,7 +111,7 @@ function SignupPage() {
             <select
               className="select-input"
               value={role}
-              onChange={(e) => setRole(e.target.value)}
+              onChange={handleRoleChange}
             >
               {ROLE_OPTIONS.map((r) => (
                 <option key={r} value={r}>
