@@ -1,0 +1,1213 @@
+2025-12-04 08:43:07,530 [INFO] Directory ready: c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters
+2025-12-04 08:43:07,530 [INFO] Downloader invoked: chapters 1 - 1
+2025-12-04 08:43:07,534 [INFO] Directory ready: c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters
+2025-12-04 08:43:20,449 [INFO] Downloading chapter 1
+2025-12-04 08:43:20,450 [INFO] Fetching range for chapter 1
+2025-12-04 08:43:20,936 [INFO] Requesting export: from=0101 to=0106.90.01.80
+2025-12-04 08:43:21,678 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_01.xlsx.part
+2025-12-04 08:43:21,682 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_01.xlsx (content-type=application/octet-stream)
+2025-12-04 08:43:21,684 [INFO] Completed Chapter 1 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_01.xlsx
+2025-12-04 08:43:22,186 [INFO] Downloader finished. Files: ['c:\\Users\\venga\\Trump-tariff\\Trump-tariff-api\\pipeline\\chapters\\Chapter_01.xlsx']
+2025-12-04 08:47:36,767 [INFO] Directory ready: c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters
+2025-12-04 08:47:41,770 [INFO] Directory ready: c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\parsed
+2025-12-04 08:47:41,962 [INFO] ===== Starting HTS Pipeline =====
+2025-12-04 08:47:41,963 [INFO] Directory ready: c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters
+2025-12-04 08:47:43,390 [INFO] Downloading chapter 1
+2025-12-04 08:47:43,391 [INFO] Fetching range for chapter 1
+2025-12-04 08:47:44,005 [INFO] Requesting export: from=0101 to=0106.90.01.80
+2025-12-04 08:47:44,586 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_01.xlsx.part
+2025-12-04 08:47:44,592 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_01.xlsx (content-type=application/octet-stream)
+2025-12-04 08:47:44,592 [INFO] Completed Chapter 1 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_01.xlsx
+2025-12-04 08:47:45,094 [INFO] Downloading chapter 2
+2025-12-04 08:47:45,094 [INFO] Fetching range for chapter 2
+2025-12-04 08:47:45,633 [INFO] Requesting export: from=0201 to=0210.99.91.00
+2025-12-04 08:47:46,261 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_02.xlsx.part
+2025-12-04 08:47:46,263 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_02.xlsx (content-type=application/octet-stream)
+2025-12-04 08:47:46,267 [INFO] Completed Chapter 2 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_02.xlsx
+2025-12-04 08:47:46,769 [INFO] Downloading chapter 3
+2025-12-04 08:47:46,769 [INFO] Fetching range for chapter 3
+2025-12-04 08:47:47,592 [INFO] Requesting export: from=0301 to=0309.90.90.00
+2025-12-04 08:47:48,460 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_03.xlsx.part
+2025-12-04 08:47:48,494 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_03.xlsx (content-type=application/octet-stream)
+2025-12-04 08:47:48,497 [INFO] Completed Chapter 3 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_03.xlsx
+2025-12-04 08:47:49,003 [INFO] Downloading chapter 4
+2025-12-04 08:47:49,003 [INFO] Fetching range for chapter 4
+2025-12-04 08:47:49,572 [INFO] Requesting export: from=0401 to=0410.90.00.00
+2025-12-04 08:47:50,753 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_04.xlsx.part
+2025-12-04 08:47:50,758 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_04.xlsx (content-type=application/octet-stream)
+2025-12-04 08:47:50,758 [INFO] Completed Chapter 4 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_04.xlsx
+2025-12-04 08:47:51,262 [INFO] Downloading chapter 5
+2025-12-04 08:47:51,264 [INFO] Fetching range for chapter 5
+2025-12-04 08:47:51,992 [INFO] Requesting export: from=0501.00.00.00 to=0511.99.40.70
+2025-12-04 08:47:52,587 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_05.xlsx.part
+2025-12-04 08:47:52,601 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_05.xlsx (content-type=application/octet-stream)
+2025-12-04 08:47:52,601 [INFO] Completed Chapter 5 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_05.xlsx
+2025-12-04 08:47:53,104 [INFO] Downloading chapter 6
+2025-12-04 08:47:53,104 [INFO] Fetching range for chapter 6
+2025-12-04 08:47:53,540 [INFO] Requesting export: from=0601 to=0604.90.60.00
+2025-12-04 08:47:54,551 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_06.xlsx.part
+2025-12-04 08:47:54,557 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_06.xlsx (content-type=application/octet-stream)
+2025-12-04 08:47:54,557 [INFO] Completed Chapter 6 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_06.xlsx
+2025-12-04 08:47:55,060 [INFO] Downloading chapter 7
+2025-12-04 08:47:55,060 [INFO] Fetching range for chapter 7
+2025-12-04 08:47:55,881 [INFO] Requesting export: from=0701 to=0714.90.61.00
+2025-12-04 08:47:56,796 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_07.xlsx.part
+2025-12-04 08:47:56,817 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_07.xlsx (content-type=application/octet-stream)
+2025-12-04 08:47:56,818 [INFO] Completed Chapter 7 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_07.xlsx
+2025-12-04 08:47:57,320 [INFO] Downloading chapter 8
+2025-12-04 08:47:57,320 [INFO] Fetching range for chapter 8
+2025-12-04 08:47:57,780 [INFO] Requesting export: from=0801 to=0814.00.80.00
+2025-12-04 08:47:58,297 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_08.xlsx.part
+2025-12-04 08:47:58,308 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_08.xlsx (content-type=application/octet-stream)
+2025-12-04 08:47:58,309 [INFO] Completed Chapter 8 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_08.xlsx
+2025-12-04 08:47:58,812 [INFO] Downloading chapter 9
+2025-12-04 08:47:58,812 [INFO] Fetching range for chapter 9
+2025-12-04 08:47:59,358 [INFO] Requesting export: from=0901 to=0910.99.60.00
+2025-12-04 08:47:59,972 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_09.xlsx.part
+2025-12-04 08:47:59,977 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_09.xlsx (content-type=application/octet-stream)
+2025-12-04 08:47:59,978 [INFO] Completed Chapter 9 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_09.xlsx
+2025-12-04 08:48:00,479 [INFO] Downloading chapter 10
+2025-12-04 08:48:00,479 [INFO] Fetching range for chapter 10
+2025-12-04 08:48:01,305 [INFO] Requesting export: from=1001 to=1008.90.01.40
+2025-12-04 08:48:01,921 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_10.xlsx.part
+2025-12-04 08:48:01,937 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_10.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:01,937 [INFO] Completed Chapter 10 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_10.xlsx
+2025-12-04 08:48:02,438 [INFO] Downloading chapter 11
+2025-12-04 08:48:02,438 [INFO] Fetching range for chapter 11
+2025-12-04 08:48:03,248 [INFO] Requesting export: from=1101.00.00 to=1109.00.90.20
+2025-12-04 08:48:03,869 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_11.xlsx.part
+2025-12-04 08:48:03,874 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_11.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:03,876 [INFO] Completed Chapter 11 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_11.xlsx
+2025-12-04 08:48:04,378 [INFO] Downloading chapter 12
+2025-12-04 08:48:04,378 [INFO] Fetching range for chapter 12
+2025-12-04 08:48:05,102 [INFO] Requesting export: from=1201 to=1214.90.00.90
+2025-12-04 08:48:05,808 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_12.xlsx.part
+2025-12-04 08:48:05,813 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_12.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:05,814 [INFO] Completed Chapter 12 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_12.xlsx
+2025-12-04 08:48:06,316 [INFO] Downloading chapter 13
+2025-12-04 08:48:06,316 [INFO] Fetching range for chapter 13
+2025-12-04 08:48:06,979 [INFO] Requesting export: from=1301 to=1302.39.00.90
+2025-12-04 08:48:07,509 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_13.xlsx.part
+2025-12-04 08:48:07,514 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_13.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:07,515 [INFO] Completed Chapter 13 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_13.xlsx
+2025-12-04 08:48:08,018 [INFO] Downloading chapter 14
+2025-12-04 08:48:08,018 [INFO] Fetching range for chapter 14
+2025-12-04 08:48:08,682 [INFO] Requesting export: from=1401 to=1404.90.90.90
+2025-12-04 08:48:09,140 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_14.xlsx.part
+2025-12-04 08:48:09,145 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_14.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:09,145 [INFO] Completed Chapter 14 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_14.xlsx
+2025-12-04 08:48:09,646 [INFO] Downloading chapter 15
+2025-12-04 08:48:09,666 [INFO] Fetching range for chapter 15
+2025-12-04 08:48:10,095 [INFO] Requesting export: from=1501 to=1522.00.00.00
+2025-12-04 08:48:10,582 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_15.xlsx.part
+2025-12-04 08:48:10,585 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_15.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:10,587 [INFO] Completed Chapter 15 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_15.xlsx
+2025-12-04 08:48:11,088 [INFO] Downloading chapter 16
+2025-12-04 08:48:11,088 [INFO] Fetching range for chapter 16
+2025-12-04 08:48:11,611 [INFO] Requesting export: from=1601.00 to=1605.69.00.00
+2025-12-04 08:48:12,188 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_16.xlsx.part
+2025-12-04 08:48:12,193 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_16.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:12,194 [INFO] Completed Chapter 16 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_16.xlsx
+2025-12-04 08:48:12,695 [INFO] Downloading chapter 17
+2025-12-04 08:48:12,695 [INFO] Fetching range for chapter 17
+2025-12-04 08:48:13,139 [INFO] Requesting export: from=1701 to=1704.90.90.00
+2025-12-04 08:48:13,808 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_17.xlsx.part
+2025-12-04 08:48:13,816 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_17.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:13,816 [INFO] Completed Chapter 17 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_17.xlsx
+2025-12-04 08:48:14,318 [INFO] Downloading chapter 18
+2025-12-04 08:48:14,319 [INFO] Fetching range for chapter 18
+2025-12-04 08:48:14,800 [INFO] Requesting export: from=1801.00.00.00 to=1806.90.90.90
+2025-12-04 08:48:15,336 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_18.xlsx.part
+2025-12-04 08:48:15,341 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_18.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:15,342 [INFO] Completed Chapter 18 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_18.xlsx
+2025-12-04 08:48:15,843 [INFO] Downloading chapter 19
+2025-12-04 08:48:15,843 [INFO] Fetching range for chapter 19
+2025-12-04 08:48:16,356 [INFO] Requesting export: from=1901 to=1905.90.90.90
+2025-12-04 08:48:16,970 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_19.xlsx.part
+2025-12-04 08:48:16,976 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_19.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:16,976 [INFO] Completed Chapter 19 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_19.xlsx
+2025-12-04 08:48:17,478 [INFO] Downloading chapter 20
+2025-12-04 08:48:17,478 [INFO] Fetching range for chapter 20
+2025-12-04 08:48:17,983 [INFO] Requesting export: from=2001 to=2009.90.40.00
+2025-12-04 08:48:18,616 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_20.xlsx.part
+2025-12-04 08:48:18,622 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_20.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:18,624 [INFO] Completed Chapter 20 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_20.xlsx
+2025-12-04 08:48:19,128 [INFO] Downloading chapter 21
+2025-12-04 08:48:19,128 [INFO] Fetching range for chapter 21
+2025-12-04 08:48:19,838 [INFO] Requesting export: from=2101 to=2106.90.99.98
+2025-12-04 08:48:20,311 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_21.xlsx.part
+2025-12-04 08:48:20,316 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_21.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:20,318 [INFO] Completed Chapter 21 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_21.xlsx
+2025-12-04 08:48:20,820 [INFO] Downloading chapter 22
+2025-12-04 08:48:20,820 [INFO] Fetching range for chapter 22
+2025-12-04 08:48:21,474 [INFO] Requesting export: from=2201 to=2209.00.00.00
+2025-12-04 08:48:22,101 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_22.xlsx.part
+2025-12-04 08:48:22,116 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_22.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:22,118 [INFO] Completed Chapter 22 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_22.xlsx
+2025-12-04 08:48:22,619 [INFO] Downloading chapter 23
+2025-12-04 08:48:22,620 [INFO] Fetching range for chapter 23
+2025-12-04 08:48:23,433 [INFO] Requesting export: from=2301 to=2309.90.95.00
+2025-12-04 08:48:24,034 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_23.xlsx.part
+2025-12-04 08:48:24,045 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_23.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:24,046 [INFO] Completed Chapter 23 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_23.xlsx
+2025-12-04 08:48:24,547 [INFO] Downloading chapter 24
+2025-12-04 08:48:24,548 [INFO] Fetching range for chapter 24
+2025-12-04 08:48:24,980 [INFO] Requesting export: from=2401 to=2404.99.00.00
+2025-12-04 08:48:25,612 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_24.xlsx.part
+2025-12-04 08:48:25,617 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_24.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:25,617 [INFO] Completed Chapter 24 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_24.xlsx
+2025-12-04 08:48:26,120 [INFO] Downloading chapter 25
+2025-12-04 08:48:26,120 [INFO] Fetching range for chapter 25
+2025-12-04 08:48:26,583 [INFO] Requesting export: from=2501.00.00.00 to=2530.90.80.50
+2025-12-04 08:48:27,107 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_25.xlsx.part
+2025-12-04 08:48:27,111 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_25.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:27,114 [INFO] Completed Chapter 25 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_25.xlsx
+2025-12-04 08:48:27,616 [INFO] Downloading chapter 26
+2025-12-04 08:48:27,616 [INFO] Fetching range for chapter 26
+2025-12-04 08:48:28,098 [INFO] Requesting export: from=2601 to=2621.90.00.00
+2025-12-04 08:48:28,651 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_26.xlsx.part
+2025-12-04 08:48:28,658 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_26.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:28,658 [INFO] Completed Chapter 26 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_26.xlsx
+2025-12-04 08:48:29,159 [INFO] Downloading chapter 27
+2025-12-04 08:48:29,159 [INFO] Fetching range for chapter 27
+2025-12-04 08:48:29,586 [INFO] Requesting export: from=2701 to=2716.00.00.00
+2025-12-04 08:48:30,081 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_27.xlsx.part
+2025-12-04 08:48:30,088 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_27.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:30,088 [INFO] Completed Chapter 27 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_27.xlsx
+2025-12-04 08:48:30,591 [INFO] Downloading chapter 28
+2025-12-04 08:48:30,592 [INFO] Fetching range for chapter 28
+2025-12-04 08:48:31,033 [INFO] Requesting export: from=2801 to=2853.90.90.90
+2025-12-04 08:48:31,595 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_28.xlsx.part
+2025-12-04 08:48:31,619 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_28.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:31,619 [INFO] Completed Chapter 28 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_28.xlsx
+2025-12-04 08:48:32,121 [INFO] Downloading chapter 29
+2025-12-04 08:48:32,121 [INFO] Fetching range for chapter 29
+2025-12-04 08:48:32,643 [INFO] Requesting export: from=2901 to=2942.00.50.00
+2025-12-04 08:48:33,421 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_29.xlsx.part
+2025-12-04 08:48:33,549 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_29.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:33,550 [INFO] Completed Chapter 29 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_29.xlsx
+2025-12-04 08:48:34,052 [INFO] Downloading chapter 30
+2025-12-04 08:48:34,052 [INFO] Fetching range for chapter 30
+2025-12-04 08:48:34,491 [INFO] Requesting export: from=3001 to=3006.93.80.00
+2025-12-04 08:48:35,251 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_30.xlsx.part
+2025-12-04 08:48:35,255 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_30.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:35,255 [INFO] Completed Chapter 30 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_30.xlsx
+2025-12-04 08:48:35,764 [INFO] Downloading chapter 31
+2025-12-04 08:48:35,765 [INFO] Fetching range for chapter 31
+2025-12-04 08:48:36,532 [INFO] Requesting export: from=3101.00.00.00 to=3105.90.00.50
+2025-12-04 08:48:37,051 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_31.xlsx.part
+2025-12-04 08:48:37,056 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_31.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:37,058 [INFO] Completed Chapter 31 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_31.xlsx
+2025-12-04 08:48:37,561 [INFO] Downloading chapter 32
+2025-12-04 08:48:37,562 [INFO] Fetching range for chapter 32
+2025-12-04 08:48:37,969 [INFO] Requesting export: from=3201 to=3215.90.50.00
+2025-12-04 08:48:38,473 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_32.xlsx.part
+2025-12-04 08:48:38,479 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_32.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:38,480 [INFO] Completed Chapter 32 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_32.xlsx
+2025-12-04 08:48:38,981 [INFO] Downloading chapter 33
+2025-12-04 08:48:38,981 [INFO] Fetching range for chapter 33
+2025-12-04 08:48:39,499 [INFO] Requesting export: from=3301 to=3307.90.00.00
+2025-12-04 08:48:39,950 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_33.xlsx.part
+2025-12-04 08:48:39,962 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_33.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:39,967 [INFO] Completed Chapter 33 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_33.xlsx
+2025-12-04 08:48:40,468 [INFO] Downloading chapter 34
+2025-12-04 08:48:40,468 [INFO] Fetching range for chapter 34
+2025-12-04 08:48:41,349 [INFO] Requesting export: from=3401 to=3407.00.40.00
+2025-12-04 08:48:41,968 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_34.xlsx.part
+2025-12-04 08:48:41,983 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_34.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:41,985 [INFO] Completed Chapter 34 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_34.xlsx
+2025-12-04 08:48:42,490 [INFO] Downloading chapter 35
+2025-12-04 08:48:42,490 [INFO] Fetching range for chapter 35
+2025-12-04 08:48:42,894 [INFO] Requesting export: from=3501 to=3507.90.70.00
+2025-12-04 08:48:43,501 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_35.xlsx.part
+2025-12-04 08:48:43,516 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_35.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:43,516 [INFO] Completed Chapter 35 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_35.xlsx
+2025-12-04 08:48:44,018 [INFO] Downloading chapter 36
+2025-12-04 08:48:44,018 [INFO] Fetching range for chapter 36
+2025-12-04 08:48:44,451 [INFO] Requesting export: from=3601.00.00.00 to=3606.90.80.00
+2025-12-04 08:48:44,952 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_36.xlsx.part
+2025-12-04 08:48:44,959 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_36.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:44,960 [INFO] Completed Chapter 36 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_36.xlsx
+2025-12-04 08:48:45,461 [INFO] Downloading chapter 37
+2025-12-04 08:48:45,461 [INFO] Fetching range for chapter 37
+2025-12-04 08:48:46,060 [INFO] Requesting export: from=3701 to=3707.90.60.00
+2025-12-04 08:48:46,670 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_37.xlsx.part
+2025-12-04 08:48:46,672 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_37.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:46,672 [INFO] Completed Chapter 37 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_37.xlsx
+2025-12-04 08:48:47,178 [INFO] Downloading chapter 38
+2025-12-04 08:48:47,178 [INFO] Fetching range for chapter 38
+2025-12-04 08:48:47,619 [INFO] Requesting export: from=3801 to=3827.90.90.00
+2025-12-04 08:48:48,120 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_38.xlsx.part
+2025-12-04 08:48:48,133 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_38.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:48,138 [INFO] Completed Chapter 38 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_38.xlsx
+2025-12-04 08:48:48,639 [INFO] Downloading chapter 39
+2025-12-04 08:48:48,639 [INFO] Fetching range for chapter 39
+2025-12-04 08:48:49,224 [INFO] Requesting export: from=3901 to=3926.90.99.89
+2025-12-04 08:48:49,953 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_39.xlsx.part
+2025-12-04 08:48:49,957 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_39.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:49,959 [INFO] Completed Chapter 39 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_39.xlsx
+2025-12-04 08:48:50,461 [INFO] Downloading chapter 40
+2025-12-04 08:48:50,462 [INFO] Fetching range for chapter 40
+2025-12-04 08:48:51,139 [INFO] Requesting export: from=4001 to=4017.00.00.00
+2025-12-04 08:48:51,623 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_40.xlsx.part
+2025-12-04 08:48:51,639 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_40.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:51,639 [INFO] Completed Chapter 40 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_40.xlsx
+2025-12-04 08:48:52,142 [INFO] Downloading chapter 41
+2025-12-04 08:48:52,143 [INFO] Fetching range for chapter 41
+2025-12-04 08:48:52,594 [INFO] Requesting export: from=4101 to=4115.20.00.00
+2025-12-04 08:48:53,073 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_41.xlsx.part
+2025-12-04 08:48:53,077 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_41.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:53,077 [INFO] Completed Chapter 41 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_41.xlsx
+2025-12-04 08:48:53,580 [INFO] Downloading chapter 42
+2025-12-04 08:48:53,580 [INFO] Fetching range for chapter 42
+2025-12-04 08:48:54,339 [INFO] Requesting export: from=4201.00 to=4206.00.90.00
+2025-12-04 08:48:54,797 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_42.xlsx.part
+2025-12-04 08:48:54,799 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_42.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:54,799 [INFO] Completed Chapter 42 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_42.xlsx
+2025-12-04 08:48:55,306 [INFO] Downloading chapter 43
+2025-12-04 08:48:55,306 [INFO] Fetching range for chapter 43
+2025-12-04 08:48:55,950 [INFO] Requesting export: from=4301 to=4304.00.00.00
+2025-12-04 08:48:56,455 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_43.xlsx.part
+2025-12-04 08:48:56,460 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_43.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:56,462 [INFO] Completed Chapter 43 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_43.xlsx
+2025-12-04 08:48:56,964 [INFO] Downloading chapter 44
+2025-12-04 08:48:56,964 [INFO] Fetching range for chapter 44
+2025-12-04 08:48:57,539 [INFO] Requesting export: from=4401 to=4421.99.98.80
+2025-12-04 08:48:58,392 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_44.xlsx.part
+2025-12-04 08:48:58,428 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_44.xlsx (content-type=application/octet-stream)
+2025-12-04 08:48:58,430 [INFO] Completed Chapter 44 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_44.xlsx
+2025-12-04 08:48:58,931 [INFO] Downloading chapter 45
+2025-12-04 08:48:58,932 [INFO] Fetching range for chapter 45
+2025-12-04 08:48:59,568 [INFO] Requesting export: from=4501 to=4504.90.00.00
+2025-12-04 08:49:00,025 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_45.xlsx.part
+2025-12-04 08:49:00,037 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_45.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:00,040 [INFO] Completed Chapter 45 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_45.xlsx
+2025-12-04 08:49:00,542 [INFO] Downloading chapter 46
+2025-12-04 08:49:00,542 [INFO] Fetching range for chapter 46
+2025-12-04 08:49:01,008 [INFO] Requesting export: from=4601 to=4602.90.00.00
+2025-12-04 08:49:01,797 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_46.xlsx.part
+2025-12-04 08:49:01,810 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_46.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:01,813 [INFO] Completed Chapter 46 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_46.xlsx
+2025-12-04 08:49:02,314 [INFO] Downloading chapter 47
+2025-12-04 08:49:02,314 [INFO] Fetching range for chapter 47
+2025-12-04 08:49:03,064 [INFO] Requesting export: from=4701.00.00.00 to=4707.90.00.00
+2025-12-04 08:49:03,623 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_47.xlsx.part
+2025-12-04 08:49:03,629 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_47.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:03,630 [INFO] Completed Chapter 47 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_47.xlsx
+2025-12-04 08:49:04,133 [INFO] Downloading chapter 48
+2025-12-04 08:49:04,133 [INFO] Fetching range for chapter 48
+2025-12-04 08:49:04,576 [INFO] Requesting export: from=4801.00.01 to=4823.90.86.80
+2025-12-04 08:49:05,104 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_48.xlsx.part
+2025-12-04 08:49:05,117 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_48.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:05,117 [INFO] Completed Chapter 48 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_48.xlsx
+2025-12-04 08:49:05,620 [INFO] Downloading chapter 49
+2025-12-04 08:49:05,620 [INFO] Fetching range for chapter 49
+2025-12-04 08:49:10,179 [INFO] Requesting export: from=4901 to=4911.99.80.00
+2025-12-04 08:49:10,915 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_49.xlsx.part
+2025-12-04 08:49:10,920 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_49.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:10,920 [INFO] Completed Chapter 49 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_49.xlsx
+2025-12-04 08:49:11,423 [INFO] Downloading chapter 50
+2025-12-04 08:49:11,423 [INFO] Fetching range for chapter 50
+2025-12-04 08:49:11,971 [INFO] Requesting export: from=5001.00.00.00 to=5007.90.60.90
+2025-12-04 08:49:12,785 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_50.xlsx.part
+2025-12-04 08:49:12,801 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_50.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:12,804 [INFO] Completed Chapter 50 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_50.xlsx
+2025-12-04 08:49:13,305 [INFO] Downloading chapter 51
+2025-12-04 08:49:13,306 [INFO] Fetching range for chapter 51
+2025-12-04 08:49:14,019 [INFO] Requesting export: from=5101 to=5113.00.00.00
+2025-12-04 08:49:14,632 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_51.xlsx.part
+2025-12-04 08:49:14,638 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_51.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:14,640 [INFO] Completed Chapter 51 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_51.xlsx
+2025-12-04 08:49:15,141 [INFO] Downloading chapter 52
+2025-12-04 08:49:15,141 [INFO] Fetching range for chapter 52
+2025-12-04 08:49:15,637 [INFO] Requesting export: from=5201.00 to=5212.25.60.90
+2025-12-04 08:49:16,311 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_52.xlsx.part
+2025-12-04 08:49:16,379 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_52.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:16,381 [INFO] Completed Chapter 52 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_52.xlsx
+2025-12-04 08:49:16,883 [INFO] Downloading chapter 53
+2025-12-04 08:49:16,883 [INFO] Fetching range for chapter 53
+2025-12-04 08:49:17,489 [INFO] Requesting export: from=5301 to=5311.00.60.00
+2025-12-04 08:49:18,299 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_53.xlsx.part
+2025-12-04 08:49:18,305 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_53.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:18,307 [INFO] Completed Chapter 53 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_53.xlsx
+2025-12-04 08:49:18,808 [INFO] Downloading chapter 54
+2025-12-04 08:49:18,808 [INFO] Fetching range for chapter 54
+2025-12-04 08:49:19,549 [INFO] Requesting export: from=5401 to=5408.34.90.95
+2025-12-04 08:49:20,150 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_54.xlsx.part
+2025-12-04 08:49:20,157 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_54.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:20,159 [INFO] Completed Chapter 54 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_54.xlsx
+2025-12-04 08:49:20,661 [INFO] Downloading chapter 55
+2025-12-04 08:49:20,661 [INFO] Fetching range for chapter 55
+2025-12-04 08:49:21,062 [INFO] Requesting export: from=5501 to=5516.94.00.90
+2025-12-04 08:49:21,667 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_55.xlsx.part
+2025-12-04 08:49:21,702 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_55.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:21,702 [INFO] Completed Chapter 55 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_55.xlsx
+2025-12-04 08:49:22,205 [INFO] Downloading chapter 56
+2025-12-04 08:49:22,205 [INFO] Fetching range for chapter 56
+2025-12-04 08:49:23,029 [INFO] Requesting export: from=5601 to=5609.00.40.00
+2025-12-04 08:49:23,660 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_56.xlsx.part
+2025-12-04 08:49:23,666 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_56.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:23,669 [INFO] Completed Chapter 56 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_56.xlsx
+2025-12-04 08:49:24,170 [INFO] Downloading chapter 57
+2025-12-04 08:49:24,171 [INFO] Fetching range for chapter 57
+2025-12-04 08:49:24,860 [INFO] Requesting export: from=5701 to=5705.00.20.90
+2025-12-04 08:49:25,576 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_57.xlsx.part
+2025-12-04 08:49:25,584 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_57.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:25,585 [INFO] Completed Chapter 57 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_57.xlsx
+2025-12-04 08:49:26,086 [INFO] Downloading chapter 58
+2025-12-04 08:49:26,086 [INFO] Fetching range for chapter 58
+2025-12-04 08:49:26,817 [INFO] Requesting export: from=5801 to=5811.00.40.00
+2025-12-04 08:49:27,428 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_58.xlsx.part
+2025-12-04 08:49:27,433 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_58.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:27,433 [INFO] Completed Chapter 58 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_58.xlsx
+2025-12-04 08:49:27,936 [INFO] Downloading chapter 59
+2025-12-04 08:49:27,936 [INFO] Fetching range for chapter 59
+2025-12-04 08:49:28,759 [INFO] Requesting export: from=5901 to=5911.90.00.80
+2025-12-04 08:49:29,266 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_59.xlsx.part
+2025-12-04 08:49:29,276 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_59.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:29,280 [INFO] Completed Chapter 59 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_59.xlsx
+2025-12-04 08:49:29,782 [INFO] Downloading chapter 60
+2025-12-04 08:49:29,782 [INFO] Fetching range for chapter 60
+2025-12-04 08:49:30,423 [INFO] Requesting export: from=6001 to=6006.90.90.00
+2025-12-04 08:49:30,908 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_60.xlsx.part
+2025-12-04 08:49:30,917 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_60.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:30,917 [INFO] Completed Chapter 60 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_60.xlsx
+2025-12-04 08:49:31,420 [INFO] Downloading chapter 61
+2025-12-04 08:49:31,420 [INFO] Fetching range for chapter 61
+2025-12-04 08:49:31,896 [INFO] Requesting export: from=6101 to=6117.90.90.95
+2025-12-04 08:49:33,363 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_61.xlsx.part
+2025-12-04 08:49:33,379 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_61.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:33,380 [INFO] Completed Chapter 61 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_61.xlsx
+2025-12-04 08:49:33,881 [INFO] Downloading chapter 62
+2025-12-04 08:49:33,881 [INFO] Fetching range for chapter 62
+2025-12-04 08:49:34,692 [INFO] Requesting export: from=6201 to=6217.90.90.95
+2025-12-04 08:49:35,501 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_62.xlsx.part
+2025-12-04 08:49:35,583 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_62.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:35,583 [INFO] Completed Chapter 62 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_62.xlsx
+2025-12-04 08:49:36,086 [INFO] Downloading chapter 63
+2025-12-04 08:49:36,086 [INFO] Fetching range for chapter 63
+2025-12-04 08:49:36,536 [INFO] Requesting export: from=6301 to=6310.90.20.00
+2025-12-04 08:49:37,256 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_63.xlsx.part
+2025-12-04 08:49:37,261 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_63.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:37,262 [INFO] Completed Chapter 63 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_63.xlsx
+2025-12-04 08:49:37,764 [INFO] Downloading chapter 64
+2025-12-04 08:49:37,764 [INFO] Fetching range for chapter 64
+2025-12-04 08:49:38,217 [INFO] Requesting export: from=6401 to=6406.90.90.00
+2025-12-04 08:49:38,994 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_64.xlsx.part
+2025-12-04 08:49:39,005 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_64.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:39,010 [INFO] Completed Chapter 64 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_64.xlsx
+2025-12-04 08:49:39,519 [INFO] Downloading chapter 65
+2025-12-04 08:49:39,519 [INFO] Fetching range for chapter 65
+2025-12-04 08:49:39,944 [INFO] Requesting export: from=6501.00 to=6507.00.00.00
+2025-12-04 08:49:40,435 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_65.xlsx.part
+2025-12-04 08:49:40,441 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_65.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:40,443 [INFO] Completed Chapter 65 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_65.xlsx
+2025-12-04 08:49:40,947 [INFO] Downloading chapter 66
+2025-12-04 08:49:40,947 [INFO] Fetching range for chapter 66
+2025-12-04 08:49:41,651 [INFO] Requesting export: from=6601 to=6603.90.81.00
+2025-12-04 08:49:42,100 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_66.xlsx.part
+2025-12-04 08:49:42,105 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_66.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:42,106 [INFO] Completed Chapter 66 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_66.xlsx
+2025-12-04 08:49:42,607 [INFO] Downloading chapter 67
+2025-12-04 08:49:42,607 [INFO] Fetching range for chapter 67
+2025-12-04 08:49:43,017 [INFO] Requesting export: from=6701.00 to=6704.90.00.00
+2025-12-04 08:49:43,524 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_67.xlsx.part
+2025-12-04 08:49:43,528 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_67.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:43,528 [INFO] Completed Chapter 67 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_67.xlsx
+2025-12-04 08:49:44,031 [INFO] Downloading chapter 68
+2025-12-04 08:49:44,031 [INFO] Fetching range for chapter 68
+2025-12-04 08:49:44,467 [INFO] Requesting export: from=6801.00.00.00 to=6815.99.41.70
+2025-12-04 08:49:44,994 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_68.xlsx.part
+2025-12-04 08:49:45,001 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_68.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:45,001 [INFO] Completed Chapter 68 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_68.xlsx
+2025-12-04 08:49:45,504 [INFO] Downloading chapter 69
+2025-12-04 08:49:45,504 [INFO] Fetching range for chapter 69
+2025-12-04 08:49:45,957 [INFO] Requesting export: from=6901.00.00.00 to=6914.90.80.00
+2025-12-04 08:49:46,583 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_69.xlsx.part
+2025-12-04 08:49:46,587 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_69.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:46,587 [INFO] Completed Chapter 69 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_69.xlsx
+2025-12-04 08:49:47,090 [INFO] Downloading chapter 70
+2025-12-04 08:49:47,090 [INFO] Fetching range for chapter 70
+2025-12-04 08:49:47,506 [INFO] Requesting export: from=7001.00 to=7020.00.60.00
+2025-12-04 08:49:48,113 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_70.xlsx.part
+2025-12-04 08:49:48,124 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_70.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:48,125 [INFO] Completed Chapter 70 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_70.xlsx
+2025-12-04 08:49:48,626 [INFO] Downloading chapter 71
+2025-12-04 08:49:48,626 [INFO] Fetching range for chapter 71
+2025-12-04 08:49:49,342 [INFO] Requesting export: from=7101 to=7118.90.00.55
+2025-12-04 08:49:49,992 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_71.xlsx.part
+2025-12-04 08:49:49,997 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_71.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:49,997 [INFO] Completed Chapter 71 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_71.xlsx
+2025-12-04 08:49:50,500 [INFO] Downloading chapter 72
+2025-12-04 08:49:50,500 [INFO] Fetching range for chapter 72
+2025-12-04 08:49:51,271 [INFO] Requesting export: from=7201 to=7229.90.90.00
+2025-12-04 08:49:52,132 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_72.xlsx.part
+2025-12-04 08:49:52,153 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_72.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:52,153 [INFO] Completed Chapter 72 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_72.xlsx
+2025-12-04 08:49:52,655 [INFO] Downloading chapter 73
+2025-12-04 08:49:52,655 [INFO] Fetching range for chapter 73
+2025-12-04 08:49:53,533 [INFO] Requesting export: from=7301 to=7326.90.86.88
+2025-12-04 08:49:54,133 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_73.xlsx.part
+2025-12-04 08:49:54,182 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_73.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:54,185 [INFO] Completed Chapter 73 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_73.xlsx
+2025-12-04 08:49:54,686 [INFO] Downloading chapter 74
+2025-12-04 08:49:54,686 [INFO] Fetching range for chapter 74
+2025-12-04 08:49:55,152 [INFO] Requesting export: from=7401.00.00.00 to=7419.80.50.50
+2025-12-04 08:49:55,625 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_74.xlsx.part
+2025-12-04 08:49:55,631 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_74.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:55,632 [INFO] Completed Chapter 74 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_74.xlsx
+2025-12-04 08:49:56,133 [INFO] Downloading chapter 75
+2025-12-04 08:49:56,133 [INFO] Fetching range for chapter 75
+2025-12-04 08:49:56,580 [INFO] Requesting export: from=7501 to=7508.90.50.00
+2025-12-04 08:49:57,423 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_75.xlsx.part
+2025-12-04 08:49:57,428 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_75.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:57,428 [INFO] Completed Chapter 75 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_75.xlsx
+2025-12-04 08:49:57,931 [INFO] Downloading chapter 76
+2025-12-04 08:49:57,932 [INFO] Fetching range for chapter 76
+2025-12-04 08:49:58,669 [INFO] Requesting export: from=7601 to=7616.99.51.90
+2025-12-04 08:49:59,271 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_76.xlsx.part
+2025-12-04 08:49:59,286 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_76.xlsx (content-type=application/octet-stream)
+2025-12-04 08:49:59,286 [INFO] Completed Chapter 76 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_76.xlsx
+2025-12-04 08:49:59,789 [INFO] Downloading chapter 77
+2025-12-04 08:49:59,789 [INFO] Fetching range for chapter 77
+2025-12-04 08:50:02,436 [WARNING] Failed to get range for chapter: 503 Server Error: Service Unavailable for url: https://hts.usitc.gov/reststop/ranges?docNumber=77 (Attempt 1/3)
+2025-12-04 08:50:05,439 [INFO] Fetching range for chapter 77
+2025-12-04 08:50:08,283 [WARNING] Failed to get range for chapter: 503 Server Error: Service Unavailable for url: https://hts.usitc.gov/reststop/ranges?docNumber=77 (Attempt 2/3)
+2025-12-04 08:50:11,285 [INFO] Fetching range for chapter 77
+2025-12-04 08:50:13,506 [WARNING] Failed to get range for chapter: 503 Server Error: Service Unavailable for url: https://hts.usitc.gov/reststop/ranges?docNumber=77 (Attempt 3/3)
+2025-12-04 08:50:13,506 [ERROR] Failed to download Chapter 77: 503 Server Error: Service Unavailable for url: https://hts.usitc.gov/reststop/ranges?docNumber=77
+Traceback (most recent call last):
+  File "c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\downloader.py", line 105, in download_all_chapters
+    data = get_chapter_range(session, ch)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\utils.py", line 20, in wrapper
+    raise last_exc
+  File "c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\utils.py", line 14, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\downloader.py", line 45, in get_chapter_range
+    r.raise_for_status()
+  File "C:\Users\venga\Trump-tariff\.conda\Lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Unavailable for url: https://hts.usitc.gov/reststop/ranges?docNumber=77
+2025-12-04 08:50:13,539 [INFO] Downloading chapter 78
+2025-12-04 08:50:13,539 [INFO] Fetching range for chapter 78
+2025-12-04 08:50:14,196 [INFO] Requesting export: from=7801 to=7806.00.80.00
+2025-12-04 08:50:14,634 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_78.xlsx.part
+2025-12-04 08:50:14,640 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_78.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:14,642 [INFO] Completed Chapter 78 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_78.xlsx
+2025-12-04 08:50:15,144 [INFO] Downloading chapter 79
+2025-12-04 08:50:15,144 [INFO] Fetching range for chapter 79
+2025-12-04 08:50:15,868 [INFO] Requesting export: from=7901 to=7907.00.60.00
+2025-12-04 08:50:16,319 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_79.xlsx.part
+2025-12-04 08:50:16,327 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_79.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:16,327 [INFO] Completed Chapter 79 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_79.xlsx
+2025-12-04 08:50:16,829 [INFO] Downloading chapter 80
+2025-12-04 08:50:16,829 [INFO] Fetching range for chapter 80
+2025-12-04 08:50:17,263 [INFO] Requesting export: from=8001 to=8007.00.50.00
+2025-12-04 08:50:17,916 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_80.xlsx.part
+2025-12-04 08:50:17,924 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_80.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:17,925 [INFO] Completed Chapter 80 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_80.xlsx
+2025-12-04 08:50:18,427 [INFO] Downloading chapter 81
+2025-12-04 08:50:18,427 [INFO] Fetching range for chapter 81
+2025-12-04 08:50:18,835 [INFO] Requesting export: from=8101 to=8113.00.00.00
+2025-12-04 08:50:19,502 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_81.xlsx.part
+2025-12-04 08:50:19,508 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_81.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:19,508 [INFO] Completed Chapter 81 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_81.xlsx
+2025-12-04 08:50:20,010 [INFO] Downloading chapter 82
+2025-12-04 08:50:20,011 [INFO] Fetching range for chapter 82
+2025-12-04 08:50:20,787 [INFO] Requesting export: from=8201 to=8215.99.50.00
+2025-12-04 08:50:21,402 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_82.xlsx.part
+2025-12-04 08:50:21,407 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_82.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:21,409 [INFO] Completed Chapter 82 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_82.xlsx
+2025-12-04 08:50:21,910 [INFO] Downloading chapter 83
+2025-12-04 08:50:21,917 [INFO] Fetching range for chapter 83
+2025-12-04 08:50:22,620 [INFO] Requesting export: from=8301 to=8311.90.00.00
+2025-12-04 08:50:23,446 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_83.xlsx.part
+2025-12-04 08:50:23,449 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_83.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:23,454 [INFO] Completed Chapter 83 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_83.xlsx
+2025-12-04 08:50:23,956 [INFO] Downloading chapter 84
+2025-12-04 08:50:23,956 [INFO] Fetching range for chapter 84
+2025-12-04 08:50:24,873 [INFO] Requesting export: from=8401 to=8487.90.00.80
+2025-12-04 08:50:25,866 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_84.xlsx.part
+2025-12-04 08:50:26,274 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_84.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:26,275 [INFO] Completed Chapter 84 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_84.xlsx
+2025-12-04 08:50:26,776 [INFO] Downloading chapter 85
+2025-12-04 08:50:26,776 [INFO] Fetching range for chapter 85
+2025-12-04 08:50:29,097 [INFO] Requesting export: from=8501 to=8549.99.00.00
+2025-12-04 08:50:30,240 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_85.xlsx.part
+2025-12-04 08:50:30,434 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_85.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:30,434 [INFO] Completed Chapter 85 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_85.xlsx
+2025-12-04 08:50:30,936 [INFO] Downloading chapter 86
+2025-12-04 08:50:30,936 [INFO] Fetching range for chapter 86
+2025-12-04 08:50:31,433 [INFO] Requesting export: from=8601 to=8609.00.00.00
+2025-12-04 08:50:31,869 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_86.xlsx.part
+2025-12-04 08:50:31,873 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_86.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:31,874 [INFO] Completed Chapter 86 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_86.xlsx
+2025-12-04 08:50:32,374 [INFO] Downloading chapter 87
+2025-12-04 08:50:32,374 [INFO] Fetching range for chapter 87
+2025-12-04 08:50:33,390 [INFO] Requesting export: from=8701 to=8716.90.50.60
+2025-12-04 08:50:33,980 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_87.xlsx.part
+2025-12-04 08:50:33,998 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_87.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:34,000 [INFO] Completed Chapter 87 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_87.xlsx
+2025-12-04 08:50:34,502 [INFO] Downloading chapter 88
+2025-12-04 08:50:34,502 [INFO] Fetching range for chapter 88
+2025-12-04 08:50:34,923 [INFO] Requesting export: from=8801.00.00 to=8807.90.90.60
+2025-12-04 08:50:35,440 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_88.xlsx.part
+2025-12-04 08:50:35,445 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_88.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:35,445 [INFO] Completed Chapter 88 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_88.xlsx
+2025-12-04 08:50:35,948 [INFO] Downloading chapter 89
+2025-12-04 08:50:35,949 [INFO] Fetching range for chapter 89
+2025-12-04 08:50:36,359 [INFO] Requesting export: from=8901 to=8908.00.00.00
+2025-12-04 08:50:36,899 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_89.xlsx.part
+2025-12-04 08:50:36,910 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_89.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:36,912 [INFO] Completed Chapter 89 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_89.xlsx
+2025-12-04 08:50:37,414 [INFO] Downloading chapter 90
+2025-12-04 08:50:37,414 [INFO] Fetching range for chapter 90
+2025-12-04 08:50:37,944 [INFO] Requesting export: from=9001 to=9033.00.90.00
+2025-12-04 08:50:39,001 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_90.xlsx.part
+2025-12-04 08:50:39,010 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_90.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:39,011 [INFO] Completed Chapter 90 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_90.xlsx
+2025-12-04 08:50:39,513 [INFO] Downloading chapter 91
+2025-12-04 08:50:39,514 [INFO] Fetching range for chapter 91
+2025-12-04 08:50:39,954 [INFO] Requesting export: from=9101 to=9114.90.50.00
+2025-12-04 08:50:40,550 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_91.xlsx.part
+2025-12-04 08:50:40,556 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_91.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:40,556 [INFO] Completed Chapter 91 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_91.xlsx
+2025-12-04 08:50:41,061 [INFO] Downloading chapter 92
+2025-12-04 08:50:41,062 [INFO] Fetching range for chapter 92
+2025-12-04 08:50:41,597 [INFO] Requesting export: from=9201 to=9209.99.80.00
+2025-12-04 08:50:42,706 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_92.xlsx.part
+2025-12-04 08:50:42,714 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_92.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:42,716 [INFO] Completed Chapter 92 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_92.xlsx
+2025-12-04 08:50:43,217 [INFO] Downloading chapter 93
+2025-12-04 08:50:43,217 [INFO] Fetching range for chapter 93
+2025-12-04 08:50:44,741 [INFO] Requesting export: from=9301 to=9307.00.00.00
+2025-12-04 08:50:45,238 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_93.xlsx.part
+2025-12-04 08:50:45,239 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_93.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:45,242 [INFO] Completed Chapter 93 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_93.xlsx
+2025-12-04 08:50:45,744 [INFO] Downloading chapter 94
+2025-12-04 08:50:45,744 [INFO] Fetching range for chapter 94
+2025-12-04 08:50:46,372 [INFO] Requesting export: from=9401 to=9406.90.01.90
+2025-12-04 08:50:46,988 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_94.xlsx.part
+2025-12-04 08:50:46,992 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_94.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:46,994 [INFO] Completed Chapter 94 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_94.xlsx
+2025-12-04 08:50:47,496 [INFO] Downloading chapter 95
+2025-12-04 08:50:47,496 [INFO] Fetching range for chapter 95
+2025-12-04 08:50:48,216 [INFO] Requesting export: from=9503.00.00 to=9508.40.00.00
+2025-12-04 08:50:48,677 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_95.xlsx.part
+2025-12-04 08:50:48,685 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_95.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:48,686 [INFO] Completed Chapter 95 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_95.xlsx
+2025-12-04 08:50:49,190 [INFO] Downloading chapter 96
+2025-12-04 08:50:49,190 [INFO] Fetching range for chapter 96
+2025-12-04 08:50:49,842 [INFO] Requesting export: from=9601 to=9620.00.70.00
+2025-12-04 08:50:50,483 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_96.xlsx.part
+2025-12-04 08:50:50,486 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_96.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:50,486 [INFO] Completed Chapter 96 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_96.xlsx
+2025-12-04 08:50:50,990 [INFO] Downloading chapter 97
+2025-12-04 08:50:50,990 [INFO] Fetching range for chapter 97
+2025-12-04 08:50:51,809 [INFO] Requesting export: from=9701 to=9706.90.00.60
+2025-12-04 08:50:52,262 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_97.xlsx.part
+2025-12-04 08:50:52,277 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_97.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:52,277 [INFO] Completed Chapter 97 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_97.xlsx
+2025-12-04 08:50:52,779 [INFO] Downloading chapter 98
+2025-12-04 08:50:52,779 [INFO] Fetching range for chapter 98
+2025-12-04 08:50:53,196 [INFO] Requesting export: from=9801.00.10 to=9823.53.06
+2025-12-04 08:50:53,953 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_98.xlsx.part
+2025-12-04 08:50:53,961 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_98.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:53,961 [INFO] Completed Chapter 98 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_98.xlsx
+2025-12-04 08:50:54,464 [INFO] Downloading chapter 99
+2025-12-04 08:50:54,464 [INFO] Fetching range for chapter 99
+2025-12-04 08:50:54,973 [INFO] Requesting export: from=9901.00.50 to=9922.52.12
+2025-12-04 08:50:56,302 [INFO] Saving to temporary file c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_99.xlsx.part
+2025-12-04 08:50:56,750 [INFO] Saved export to c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_99.xlsx (content-type=application/octet-stream)
+2025-12-04 08:50:56,752 [INFO] Completed Chapter 99 -> c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_99.xlsx
+2025-12-04 08:50:57,254 [INFO] Downloaded 98 chapters successfully.
+2025-12-04 08:50:57,254 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_01.xlsx
+2025-12-04 08:50:57,256 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_02.xlsx
+2025-12-04 08:50:57,256 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_03.xlsx
+2025-12-04 08:50:57,256 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_04.xlsx
+2025-12-04 08:50:57,256 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_05.xlsx
+2025-12-04 08:50:57,258 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_06.xlsx
+2025-12-04 08:50:57,258 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_07.xlsx
+2025-12-04 08:50:57,258 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_08.xlsx
+2025-12-04 08:50:57,258 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_09.xlsx
+2025-12-04 08:50:57,258 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_10.xlsx
+2025-12-04 08:50:57,258 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_11.xlsx
+2025-12-04 08:50:57,261 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_12.xlsx
+2025-12-04 08:50:57,261 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_13.xlsx
+2025-12-04 08:50:57,261 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_14.xlsx
+2025-12-04 08:50:57,262 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_15.xlsx
+2025-12-04 08:50:57,262 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_16.xlsx
+2025-12-04 08:50:57,262 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_17.xlsx
+2025-12-04 08:50:57,262 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_18.xlsx
+2025-12-04 08:50:57,262 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_19.xlsx
+2025-12-04 08:50:57,264 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_20.xlsx
+2025-12-04 08:50:57,265 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_21.xlsx
+2025-12-04 08:50:57,265 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_22.xlsx
+2025-12-04 08:50:57,265 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_23.xlsx
+2025-12-04 08:50:57,267 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_24.xlsx
+2025-12-04 08:50:57,267 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_25.xlsx
+2025-12-04 08:50:57,267 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_26.xlsx
+2025-12-04 08:50:57,268 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_27.xlsx
+2025-12-04 08:50:57,268 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_28.xlsx
+2025-12-04 08:50:57,269 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_29.xlsx
+2025-12-04 08:50:57,269 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_30.xlsx
+2025-12-04 08:50:57,269 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_31.xlsx
+2025-12-04 08:50:57,269 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_32.xlsx
+2025-12-04 08:50:57,269 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_33.xlsx
+2025-12-04 08:50:57,269 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_34.xlsx
+2025-12-04 08:50:57,269 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_35.xlsx
+2025-12-04 08:50:57,273 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_36.xlsx
+2025-12-04 08:50:57,273 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_37.xlsx
+2025-12-04 08:50:57,273 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_38.xlsx
+2025-12-04 08:50:57,274 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_39.xlsx
+2025-12-04 08:50:57,274 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_40.xlsx
+2025-12-04 08:50:57,274 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_41.xlsx
+2025-12-04 08:50:57,274 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_42.xlsx
+2025-12-04 08:50:57,274 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_43.xlsx
+2025-12-04 08:50:57,274 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_44.xlsx
+2025-12-04 08:50:57,277 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_45.xlsx
+2025-12-04 08:50:57,277 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_46.xlsx
+2025-12-04 08:50:57,277 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_47.xlsx
+2025-12-04 08:50:57,277 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_48.xlsx
+2025-12-04 08:50:57,279 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_49.xlsx
+2025-12-04 08:50:57,279 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_50.xlsx
+2025-12-04 08:50:57,279 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_51.xlsx
+2025-12-04 08:50:57,279 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_52.xlsx
+2025-12-04 08:50:57,281 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_53.xlsx
+2025-12-04 08:50:57,281 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_54.xlsx
+2025-12-04 08:50:57,282 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_55.xlsx
+2025-12-04 08:50:57,282 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_56.xlsx
+2025-12-04 08:50:57,283 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_57.xlsx
+2025-12-04 08:50:57,283 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_58.xlsx
+2025-12-04 08:50:57,283 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_59.xlsx
+2025-12-04 08:50:57,283 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_60.xlsx
+2025-12-04 08:50:57,286 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_61.xlsx
+2025-12-04 08:50:57,286 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_62.xlsx
+2025-12-04 08:50:57,286 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_63.xlsx
+2025-12-04 08:50:57,288 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_64.xlsx
+2025-12-04 08:50:57,288 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_65.xlsx
+2025-12-04 08:50:57,288 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_66.xlsx
+2025-12-04 08:50:57,288 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_67.xlsx
+2025-12-04 08:50:57,288 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_68.xlsx
+2025-12-04 08:50:57,290 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_69.xlsx
+2025-12-04 08:50:57,290 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_70.xlsx
+2025-12-04 08:50:57,290 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_71.xlsx
+2025-12-04 08:50:57,290 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_72.xlsx
+2025-12-04 08:50:57,290 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_73.xlsx
+2025-12-04 08:50:57,290 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_74.xlsx
+2025-12-04 08:50:57,290 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_75.xlsx
+2025-12-04 08:50:57,290 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_76.xlsx
+2025-12-04 08:50:57,294 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_78.xlsx
+2025-12-04 08:50:57,294 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_79.xlsx
+2025-12-04 08:50:57,294 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_80.xlsx
+2025-12-04 08:50:57,294 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_81.xlsx
+2025-12-04 08:50:57,294 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_82.xlsx
+2025-12-04 08:50:57,297 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_83.xlsx
+2025-12-04 08:50:57,297 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_84.xlsx
+2025-12-04 08:50:57,297 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_85.xlsx
+2025-12-04 08:50:57,299 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_86.xlsx
+2025-12-04 08:50:57,299 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_87.xlsx
+2025-12-04 08:50:57,300 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_88.xlsx
+2025-12-04 08:50:57,300 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_89.xlsx
+2025-12-04 08:50:57,300 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_90.xlsx
+2025-12-04 08:50:57,300 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_91.xlsx
+2025-12-04 08:50:57,300 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_92.xlsx
+2025-12-04 08:50:57,300 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_93.xlsx
+2025-12-04 08:50:57,303 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_94.xlsx
+2025-12-04 08:50:57,303 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_95.xlsx
+2025-12-04 08:50:57,303 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_96.xlsx
+2025-12-04 08:50:57,305 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_97.xlsx
+2025-12-04 08:50:57,305 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_98.xlsx
+2025-12-04 08:50:57,306 [INFO]  - c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_99.xlsx
+2025-12-04 08:50:57,311 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_01.xlsx
+2025-12-04 08:50:58,282 [INFO] Parsed 72 rows from Chapter_01.xlsx
+2025-12-04 08:50:58,282 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_02.xlsx
+2025-12-04 08:50:58,402 [INFO] Parsed 134 rows from Chapter_02.xlsx
+2025-12-04 08:50:58,402 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_03.xlsx
+2025-12-04 08:50:58,771 [INFO] Parsed 513 rows from Chapter_03.xlsx
+2025-12-04 08:50:58,771 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_04.xlsx
+2025-12-04 08:50:58,998 [INFO] Parsed 328 rows from Chapter_04.xlsx
+2025-12-04 08:50:58,998 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_05.xlsx
+2025-12-04 08:50:59,071 [INFO] Parsed 21 rows from Chapter_05.xlsx
+2025-12-04 08:50:59,071 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_06.xlsx
+2025-12-04 08:50:59,206 [INFO] Parsed 62 rows from Chapter_06.xlsx
+2025-12-04 08:50:59,206 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_07.xlsx
+2025-12-04 08:50:59,467 [INFO] Parsed 433 rows from Chapter_07.xlsx
+2025-12-04 08:50:59,467 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_08.xlsx
+2025-12-04 08:50:59,677 [INFO] Parsed 203 rows from Chapter_08.xlsx
+2025-12-04 08:50:59,677 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_09.xlsx
+2025-12-04 08:50:59,775 [INFO] Parsed 85 rows from Chapter_09.xlsx
+2025-12-04 08:50:59,775 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_10.xlsx
+2025-12-04 08:50:59,857 [INFO] Parsed 50 rows from Chapter_10.xlsx
+2025-12-04 08:50:59,859 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_11.xlsx
+2025-12-04 08:50:59,932 [INFO] Parsed 21 rows from Chapter_11.xlsx
+2025-12-04 08:50:59,933 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_12.xlsx
+2025-12-04 08:51:00,093 [INFO] Parsed 138 rows from Chapter_12.xlsx
+2025-12-04 08:51:00,093 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_13.xlsx
+2025-12-04 08:51:00,155 [INFO] Parsed 18 rows from Chapter_13.xlsx
+2025-12-04 08:51:00,155 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_14.xlsx
+2025-12-04 08:51:00,208 [INFO] Parsed 9 rows from Chapter_14.xlsx
+2025-12-04 08:51:00,208 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_15.xlsx
+2025-12-04 08:51:00,319 [INFO] Parsed 65 rows from Chapter_15.xlsx
+2025-12-04 08:51:00,319 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_16.xlsx
+2025-12-04 08:51:00,457 [INFO] Parsed 237 rows from Chapter_16.xlsx
+2025-12-04 08:51:00,457 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_17.xlsx
+2025-12-04 08:51:00,563 [INFO] Parsed 115 rows from Chapter_17.xlsx
+2025-12-04 08:51:00,563 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_18.xlsx
+2025-12-04 08:51:00,657 [INFO] Parsed 123 rows from Chapter_18.xlsx
+2025-12-04 08:51:00,657 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_19.xlsx
+2025-12-04 08:51:00,767 [INFO] Parsed 132 rows from Chapter_19.xlsx
+2025-12-04 08:51:00,767 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_20.xlsx
+2025-12-04 08:51:00,968 [INFO] Parsed 323 rows from Chapter_20.xlsx
+2025-12-04 08:51:00,968 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_21.xlsx
+2025-12-04 08:51:01,065 [INFO] Parsed 137 rows from Chapter_21.xlsx
+2025-12-04 08:51:01,066 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_22.xlsx
+2025-12-04 08:51:01,169 [INFO] Parsed 126 rows from Chapter_22.xlsx
+2025-12-04 08:51:01,169 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_23.xlsx
+2025-12-04 08:51:01,245 [INFO] Parsed 36 rows from Chapter_23.xlsx
+2025-12-04 08:51:01,245 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_24.xlsx
+2025-12-04 08:51:01,435 [INFO] Parsed 260 rows from Chapter_24.xlsx
+2025-12-04 08:51:01,439 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_25.xlsx
+2025-12-04 08:51:01,530 [INFO] Parsed 11 rows from Chapter_25.xlsx
+2025-12-04 08:51:01,531 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_26.xlsx
+2025-12-04 08:51:01,619 [INFO] Parsed 37 rows from Chapter_26.xlsx
+2025-12-04 08:51:01,619 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_27.xlsx
+2025-12-04 08:51:01,742 [INFO] Parsed 141 rows from Chapter_27.xlsx
+2025-12-04 08:51:01,745 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_28.xlsx
+2025-12-04 08:51:01,994 [INFO] Parsed 135 rows from Chapter_28.xlsx
+2025-12-04 08:51:01,994 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_29.xlsx
+2025-12-04 08:51:02,837 [INFO] Parsed 1140 rows from Chapter_29.xlsx
+2025-12-04 08:51:02,846 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_30.xlsx
+2025-12-04 08:51:02,977 [INFO] Parsed 134 rows from Chapter_30.xlsx
+2025-12-04 08:51:02,979 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_31.xlsx
+2025-12-04 08:51:03,046 [INFO] Parsed 2 rows from Chapter_31.xlsx
+2025-12-04 08:51:03,046 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_32.xlsx
+2025-12-04 08:51:03,178 [INFO] Parsed 143 rows from Chapter_32.xlsx
+2025-12-04 08:51:03,178 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_33.xlsx
+2025-12-04 08:51:03,270 [INFO] Parsed 51 rows from Chapter_33.xlsx
+2025-12-04 08:51:03,270 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_34.xlsx
+2025-12-04 08:51:03,382 [INFO] Parsed 35 rows from Chapter_34.xlsx
+2025-12-04 08:51:03,385 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_35.xlsx
+2025-12-04 08:51:03,452 [INFO] Parsed 7 rows from Chapter_35.xlsx
+2025-12-04 08:51:03,453 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_36.xlsx
+2025-12-04 08:51:03,509 [INFO] Parsed 2 rows from Chapter_36.xlsx
+2025-12-04 08:51:03,509 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_37.xlsx
+2025-12-04 08:51:03,594 [INFO] Parsed 40 rows from Chapter_37.xlsx
+2025-12-04 08:51:03,594 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_38.xlsx
+2025-12-04 08:51:03,776 [INFO] Parsed 124 rows from Chapter_38.xlsx
+2025-12-04 08:51:03,780 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_39.xlsx
+2025-12-04 08:51:04,026 [INFO] Parsed 215 rows from Chapter_39.xlsx
+2025-12-04 08:51:04,028 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_40.xlsx
+2025-12-04 08:51:04,211 [INFO] Parsed 176 rows from Chapter_40.xlsx
+2025-12-04 08:51:04,212 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_41.xlsx
+2025-12-04 08:51:04,392 [INFO] Parsed 231 rows from Chapter_41.xlsx
+2025-12-04 08:51:04,392 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_42.xlsx
+2025-12-04 08:51:04,530 [INFO] Parsed 164 rows from Chapter_42.xlsx
+2025-12-04 08:51:04,531 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_43.xlsx
+2025-12-04 08:51:04,607 [INFO] Parsed 20 rows from Chapter_43.xlsx
+2025-12-04 08:51:04,607 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_44.xlsx
+2025-12-04 08:51:05,006 [INFO] Parsed 657 rows from Chapter_44.xlsx
+2025-12-04 08:51:05,009 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_45.xlsx
+2025-12-04 08:51:05,066 [INFO] Parsed 6 rows from Chapter_45.xlsx
+2025-12-04 08:51:05,066 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_46.xlsx
+2025-12-04 08:51:05,141 [INFO] Parsed 67 rows from Chapter_46.xlsx
+2025-12-04 08:51:05,141 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_47.xlsx
+2025-12-04 08:51:05,200 [INFO] Parsed 4 rows from Chapter_47.xlsx
+2025-12-04 08:51:05,200 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_48.xlsx
+2025-12-04 08:51:05,422 [INFO] Parsed 319 rows from Chapter_48.xlsx
+2025-12-04 08:51:05,422 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_49.xlsx
+2025-12-04 08:51:05,502 [INFO] Parsed 37 rows from Chapter_49.xlsx
+2025-12-04 08:51:05,502 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_50.xlsx
+2025-12-04 08:51:05,570 [INFO] Parsed 28 rows from Chapter_50.xlsx
+2025-12-04 08:51:05,570 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_51.xlsx
+2025-12-04 08:51:05,700 [INFO] Parsed 120 rows from Chapter_51.xlsx
+2025-12-04 08:51:05,700 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_52.xlsx
+2025-12-04 08:51:06,131 [INFO] Parsed 657 rows from Chapter_52.xlsx
+2025-12-04 08:51:06,131 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_53.xlsx
+2025-12-04 08:51:06,218 [INFO] Parsed 53 rows from Chapter_53.xlsx
+2025-12-04 08:51:06,218 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_54.xlsx
+2025-12-04 08:51:06,431 [INFO] Parsed 327 rows from Chapter_54.xlsx
+2025-12-04 08:51:06,431 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_55.xlsx
+2025-12-04 08:51:06,682 [INFO] Parsed 386 rows from Chapter_55.xlsx
+2025-12-04 08:51:06,682 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_56.xlsx
+2025-12-04 08:51:06,792 [INFO] Parsed 68 rows from Chapter_56.xlsx
+2025-12-04 08:51:06,793 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_57.xlsx
+2025-12-04 08:51:06,877 [INFO] Parsed 67 rows from Chapter_57.xlsx
+2025-12-04 08:51:06,877 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_58.xlsx
+2025-12-04 08:51:06,973 [INFO] Parsed 88 rows from Chapter_58.xlsx
+2025-12-04 08:51:06,974 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_59.xlsx
+2025-12-04 08:51:07,049 [INFO] Parsed 57 rows from Chapter_59.xlsx
+2025-12-04 08:51:07,049 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_60.xlsx
+2025-12-04 08:51:07,148 [INFO] Parsed 96 rows from Chapter_60.xlsx
+2025-12-04 08:51:07,149 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_61.xlsx
+2025-12-04 08:51:07,631 [INFO] Parsed 1106 rows from Chapter_61.xlsx
+2025-12-04 08:51:07,631 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_62.xlsx
+2025-12-04 08:51:08,356 [INFO] Parsed 1851 rows from Chapter_62.xlsx
+2025-12-04 08:51:08,356 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_63.xlsx
+2025-12-04 08:51:08,529 [INFO] Parsed 264 rows from Chapter_63.xlsx
+2025-12-04 08:51:08,529 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_64.xlsx
+2025-12-04 08:51:08,829 [INFO] Parsed 601 rows from Chapter_64.xlsx
+2025-12-04 08:51:08,829 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_65.xlsx
+2025-12-04 08:51:08,911 [INFO] Parsed 86 rows from Chapter_65.xlsx
+2025-12-04 08:51:08,911 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_66.xlsx
+2025-12-04 08:51:08,957 [INFO] Parsed 0 rows from Chapter_66.xlsx
+2025-12-04 08:51:08,957 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_67.xlsx
+2025-12-04 08:51:09,006 [INFO] Parsed 2 rows from Chapter_67.xlsx
+2025-12-04 08:51:09,006 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_68.xlsx
+2025-12-04 08:51:09,099 [INFO] Parsed 72 rows from Chapter_68.xlsx
+2025-12-04 08:51:09,099 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_69.xlsx
+2025-12-04 08:51:09,204 [INFO] Parsed 131 rows from Chapter_69.xlsx
+2025-12-04 08:51:09,204 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_70.xlsx
+2025-12-04 08:51:09,406 [INFO] Parsed 327 rows from Chapter_70.xlsx
+2025-12-04 08:51:09,406 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_71.xlsx
+2025-12-04 08:51:09,562 [INFO] Parsed 127 rows from Chapter_71.xlsx
+2025-12-04 08:51:09,562 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_72.xlsx
+2025-12-04 08:51:09,918 [INFO] Parsed 621 rows from Chapter_72.xlsx
+2025-12-04 08:51:09,918 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_73.xlsx
+2025-12-04 08:51:10,269 [INFO] Parsed 714 rows from Chapter_73.xlsx
+2025-12-04 08:51:10,269 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_74.xlsx
+2025-12-04 08:51:10,386 [INFO] Parsed 132 rows from Chapter_74.xlsx
+2025-12-04 08:51:10,387 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_75.xlsx
+2025-12-04 08:51:10,442 [INFO] Parsed 16 rows from Chapter_75.xlsx
+2025-12-04 08:51:10,442 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_76.xlsx
+2025-12-04 08:51:10,560 [INFO] Parsed 121 rows from Chapter_76.xlsx
+2025-12-04 08:51:10,560 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_78.xlsx
+2025-12-04 08:51:10,603 [INFO] Parsed 4 rows from Chapter_78.xlsx
+2025-12-04 08:51:10,603 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_79.xlsx
+2025-12-04 08:51:10,646 [INFO] Parsed 2 rows from Chapter_79.xlsx
+2025-12-04 08:51:10,646 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_80.xlsx
+2025-12-04 08:51:10,692 [INFO] Parsed 0 rows from Chapter_80.xlsx
+2025-12-04 08:51:10,694 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_81.xlsx
+2025-12-04 08:51:10,782 [INFO] Parsed 36 rows from Chapter_81.xlsx
+2025-12-04 08:51:10,782 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_82.xlsx
+2025-12-04 08:51:10,920 [INFO] Parsed 155 rows from Chapter_82.xlsx
+2025-12-04 08:51:10,920 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_83.xlsx
+2025-12-04 08:51:11,007 [INFO] Parsed 60 rows from Chapter_83.xlsx
+2025-12-04 08:51:11,007 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_84.xlsx
+2025-12-04 08:51:12,019 [INFO] Parsed 1570 rows from Chapter_84.xlsx
+2025-12-04 08:51:12,019 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_85.xlsx
+2025-12-04 08:51:12,596 [INFO] Parsed 910 rows from Chapter_85.xlsx
+2025-12-04 08:51:12,596 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_86.xlsx
+2025-12-04 08:51:12,658 [INFO] Parsed 22 rows from Chapter_86.xlsx
+2025-12-04 08:51:12,658 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_87.xlsx
+2025-12-04 08:51:12,907 [INFO] Parsed 405 rows from Chapter_87.xlsx
+2025-12-04 08:51:12,907 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_88.xlsx
+2025-12-04 08:51:12,982 [INFO] Parsed 59 rows from Chapter_88.xlsx
+2025-12-04 08:51:12,983 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_89.xlsx
+2025-12-04 08:51:13,059 [INFO] Parsed 53 rows from Chapter_89.xlsx
+2025-12-04 08:51:13,059 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_90.xlsx
+2025-12-04 08:51:13,379 [INFO] Parsed 323 rows from Chapter_90.xlsx
+2025-12-04 08:51:13,379 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_91.xlsx
+2025-12-04 08:51:13,532 [INFO] Parsed 197 rows from Chapter_91.xlsx
+2025-12-04 08:51:13,532 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_92.xlsx
+2025-12-04 08:51:13,616 [INFO] Parsed 52 rows from Chapter_92.xlsx
+2025-12-04 08:51:13,616 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_93.xlsx
+2025-12-04 08:51:13,695 [INFO] Parsed 57 rows from Chapter_93.xlsx
+2025-12-04 08:51:13,695 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_94.xlsx
+2025-12-04 08:51:13,875 [INFO] Parsed 337 rows from Chapter_94.xlsx
+2025-12-04 08:51:13,875 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_95.xlsx
+2025-12-04 08:51:13,982 [INFO] Parsed 102 rows from Chapter_95.xlsx
+2025-12-04 08:51:13,988 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_96.xlsx
+2025-12-04 08:51:14,118 [INFO] Parsed 86 rows from Chapter_96.xlsx
+2025-12-04 08:51:14,119 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_97.xlsx
+2025-12-04 08:51:14,183 [INFO] Parsed 10 rows from Chapter_97.xlsx
+2025-12-04 08:51:14,183 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_98.xlsx
+2025-12-04 08:51:14,458 [INFO] Parsed 231 rows from Chapter_98.xlsx
+2025-12-04 08:51:14,458 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_99.xlsx
+2025-12-04 08:51:15,933 [INFO] Parsed 765 rows from Chapter_99.xlsx
+2025-12-04 08:51:16,426 [INFO] Parsed CSV saved at: c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\parsed\hts_all_chapters.csv
+2025-12-04 08:51:16,426 [INFO] Loading CSV into DB: c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\parsed\hts_all_chapters.csv
+2025-12-04 08:51:17,955 [INFO] Table hts_master ready or already exists.
+2025-12-04 08:51:18,427 [INFO] Inserted records 1 to 500
+2025-12-04 08:51:18,609 [INFO] Inserted records 501 to 1000
+2025-12-04 08:51:18,677 [INFO] Inserted records 1001 to 1500
+2025-12-04 08:51:18,748 [INFO] Inserted records 1501 to 2000
+2025-12-04 08:51:18,841 [INFO] Inserted records 2001 to 2500
+2025-12-04 08:51:18,905 [INFO] Inserted records 2501 to 3000
+2025-12-04 08:51:19,029 [INFO] Inserted records 3001 to 3500
+2025-12-04 08:51:19,084 [INFO] Inserted records 3501 to 4000
+2025-12-04 08:51:19,141 [INFO] Inserted records 4001 to 4500
+2025-12-04 08:51:19,199 [INFO] Inserted records 4501 to 5000
+2025-12-04 08:51:19,256 [INFO] Inserted records 5001 to 5500
+2025-12-04 08:51:19,318 [INFO] Inserted records 5501 to 6000
+2025-12-04 08:51:19,385 [INFO] Inserted records 6001 to 6500
+2025-12-04 08:51:19,444 [INFO] Inserted records 6501 to 7000
+2025-12-04 08:51:19,506 [INFO] Inserted records 7001 to 7500
+2025-12-04 08:51:19,562 [INFO] Inserted records 7501 to 8000
+2025-12-04 08:51:19,618 [INFO] Inserted records 8001 to 8500
+2025-12-04 08:51:19,668 [INFO] Inserted records 8501 to 9000
+2025-12-04 08:51:19,727 [INFO] Inserted records 9001 to 9500
+2025-12-04 08:51:19,831 [INFO] Inserted records 9501 to 10000
+2025-12-04 08:51:19,893 [INFO] Inserted records 10001 to 10500
+2025-12-04 08:51:19,952 [INFO] Inserted records 10501 to 11000
+2025-12-04 08:51:20,013 [INFO] Inserted records 11001 to 11500
+2025-12-04 08:51:20,077 [INFO] Inserted records 11501 to 12000
+2025-12-04 08:51:20,131 [INFO] Inserted records 12001 to 12500
+2025-12-04 08:51:20,186 [INFO] Inserted records 12501 to 13000
+2025-12-04 08:51:20,243 [INFO] Inserted records 13001 to 13500
+2025-12-04 08:51:20,303 [INFO] Inserted records 13501 to 14000
+2025-12-04 08:51:20,357 [INFO] Inserted records 14001 to 14500
+2025-12-04 08:51:20,419 [INFO] Inserted records 14501 to 15000
+2025-12-04 08:51:20,476 [INFO] Inserted records 15001 to 15500
+2025-12-04 08:51:20,530 [INFO] Inserted records 15501 to 16000
+2025-12-04 08:51:20,637 [INFO] Inserted records 16001 to 16500
+2025-12-04 08:51:20,687 [INFO] Inserted records 16501 to 17000
+2025-12-04 08:51:20,744 [INFO] Inserted records 17001 to 17500
+2025-12-04 08:51:20,810 [INFO] Inserted records 17501 to 18000
+2025-12-04 08:51:20,867 [INFO] Inserted records 18001 to 18500
+2025-12-04 08:51:20,922 [INFO] Inserted records 18501 to 19000
+2025-12-04 08:51:20,982 [INFO] Inserted records 19001 to 19500
+2025-12-04 08:51:21,035 [INFO] Inserted records 19501 to 20000
+2025-12-04 08:51:21,089 [INFO] Inserted records 20001 to 20500
+2025-12-04 08:51:21,149 [INFO] Inserted records 20501 to 21000
+2025-12-04 08:51:21,166 [INFO] Inserted records 21001 to 21093
+2025-12-04 08:51:21,166 [INFO] CSV data loaded into DB successfully.
+2025-12-04 08:51:21,169 [INFO] Database connection closed.
+2025-12-04 08:51:21,173 [INFO] Pipeline finished successfully!
+2025-12-04 10:55:57,153 [INFO] Directory ready: c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\parsed
+2025-12-04 10:55:57,157 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_01.xlsx
+2025-12-04 10:55:57,785 [INFO] Parsed 72 rows from Chapter_01.xlsx
+2025-12-04 10:55:57,785 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_02.xlsx
+2025-12-04 10:55:57,893 [INFO] Parsed 134 rows from Chapter_02.xlsx
+2025-12-04 10:55:57,893 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_03.xlsx
+2025-12-04 10:55:58,186 [INFO] Parsed 513 rows from Chapter_03.xlsx
+2025-12-04 10:55:58,186 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_04.xlsx
+2025-12-04 10:55:58,343 [INFO] Parsed 328 rows from Chapter_04.xlsx
+2025-12-04 10:55:58,343 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_05.xlsx
+2025-12-04 10:55:58,391 [INFO] Parsed 21 rows from Chapter_05.xlsx
+2025-12-04 10:55:58,391 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_06.xlsx
+2025-12-04 10:55:58,446 [INFO] Parsed 62 rows from Chapter_06.xlsx
+2025-12-04 10:55:58,446 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_07.xlsx
+2025-12-04 10:55:58,654 [INFO] Parsed 433 rows from Chapter_07.xlsx
+2025-12-04 10:55:58,654 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_08.xlsx
+2025-12-04 10:55:58,810 [INFO] Parsed 203 rows from Chapter_08.xlsx
+2025-12-04 10:55:58,810 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_09.xlsx
+2025-12-04 10:55:58,875 [INFO] Parsed 85 rows from Chapter_09.xlsx
+2025-12-04 10:55:58,875 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_10.xlsx
+2025-12-04 10:55:58,929 [INFO] Parsed 50 rows from Chapter_10.xlsx
+2025-12-04 10:55:58,929 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_11.xlsx
+2025-12-04 10:55:58,979 [INFO] Parsed 21 rows from Chapter_11.xlsx
+2025-12-04 10:55:58,979 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_12.xlsx
+2025-12-04 10:55:59,080 [INFO] Parsed 138 rows from Chapter_12.xlsx
+2025-12-04 10:55:59,082 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_13.xlsx
+2025-12-04 10:55:59,110 [INFO] Parsed 18 rows from Chapter_13.xlsx
+2025-12-04 10:55:59,114 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_14.xlsx
+2025-12-04 10:55:59,142 [INFO] Parsed 9 rows from Chapter_14.xlsx
+2025-12-04 10:55:59,142 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_15.xlsx
+2025-12-04 10:55:59,223 [INFO] Parsed 65 rows from Chapter_15.xlsx
+2025-12-04 10:55:59,223 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_16.xlsx
+2025-12-04 10:55:59,366 [INFO] Parsed 237 rows from Chapter_16.xlsx
+2025-12-04 10:55:59,366 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_17.xlsx
+2025-12-04 10:55:59,446 [INFO] Parsed 115 rows from Chapter_17.xlsx
+2025-12-04 10:55:59,447 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_18.xlsx
+2025-12-04 10:55:59,530 [INFO] Parsed 123 rows from Chapter_18.xlsx
+2025-12-04 10:55:59,530 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_19.xlsx
+2025-12-04 10:55:59,614 [INFO] Parsed 132 rows from Chapter_19.xlsx
+2025-12-04 10:55:59,614 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_20.xlsx
+2025-12-04 10:55:59,825 [INFO] Parsed 323 rows from Chapter_20.xlsx
+2025-12-04 10:55:59,825 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_21.xlsx
+2025-12-04 10:55:59,905 [INFO] Parsed 137 rows from Chapter_21.xlsx
+2025-12-04 10:55:59,905 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_22.xlsx
+2025-12-04 10:55:59,989 [INFO] Parsed 126 rows from Chapter_22.xlsx
+2025-12-04 10:55:59,989 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_23.xlsx
+2025-12-04 10:56:00,054 [INFO] Parsed 36 rows from Chapter_23.xlsx
+2025-12-04 10:56:00,054 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_24.xlsx
+2025-12-04 10:56:00,183 [INFO] Parsed 260 rows from Chapter_24.xlsx
+2025-12-04 10:56:00,185 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_25.xlsx
+2025-12-04 10:56:00,271 [INFO] Parsed 11 rows from Chapter_25.xlsx
+2025-12-04 10:56:00,271 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_26.xlsx
+2025-12-04 10:56:00,347 [INFO] Parsed 37 rows from Chapter_26.xlsx
+2025-12-04 10:56:00,349 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_27.xlsx
+2025-12-04 10:56:00,466 [INFO] Parsed 141 rows from Chapter_27.xlsx
+2025-12-04 10:56:00,466 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_28.xlsx
+2025-12-04 10:56:00,642 [INFO] Parsed 135 rows from Chapter_28.xlsx
+2025-12-04 10:56:00,642 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_29.xlsx
+2025-12-04 10:56:01,230 [INFO] Parsed 1140 rows from Chapter_29.xlsx
+2025-12-04 10:56:01,230 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_30.xlsx
+2025-12-04 10:56:01,334 [INFO] Parsed 134 rows from Chapter_30.xlsx
+2025-12-04 10:56:01,334 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_31.xlsx
+2025-12-04 10:56:01,370 [INFO] Parsed 2 rows from Chapter_31.xlsx
+2025-12-04 10:56:01,370 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_32.xlsx
+2025-12-04 10:56:01,494 [INFO] Parsed 143 rows from Chapter_32.xlsx
+2025-12-04 10:56:01,494 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_33.xlsx
+2025-12-04 10:56:01,556 [INFO] Parsed 51 rows from Chapter_33.xlsx
+2025-12-04 10:56:01,558 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_34.xlsx
+2025-12-04 10:56:01,604 [INFO] Parsed 35 rows from Chapter_34.xlsx
+2025-12-04 10:56:01,604 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_35.xlsx
+2025-12-04 10:56:01,640 [INFO] Parsed 7 rows from Chapter_35.xlsx
+2025-12-04 10:56:01,643 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_36.xlsx
+2025-12-04 10:56:01,669 [INFO] Parsed 2 rows from Chapter_36.xlsx
+2025-12-04 10:56:01,669 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_37.xlsx
+2025-12-04 10:56:01,721 [INFO] Parsed 40 rows from Chapter_37.xlsx
+2025-12-04 10:56:01,721 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_38.xlsx
+2025-12-04 10:56:01,844 [INFO] Parsed 124 rows from Chapter_38.xlsx
+2025-12-04 10:56:01,844 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_39.xlsx
+2025-12-04 10:56:02,050 [INFO] Parsed 215 rows from Chapter_39.xlsx
+2025-12-04 10:56:02,050 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_40.xlsx
+2025-12-04 10:56:02,174 [INFO] Parsed 176 rows from Chapter_40.xlsx
+2025-12-04 10:56:02,174 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_41.xlsx
+2025-12-04 10:56:02,289 [INFO] Parsed 231 rows from Chapter_41.xlsx
+2025-12-04 10:56:02,289 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_42.xlsx
+2025-12-04 10:56:02,388 [INFO] Parsed 164 rows from Chapter_42.xlsx
+2025-12-04 10:56:02,388 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_43.xlsx
+2025-12-04 10:56:02,429 [INFO] Parsed 20 rows from Chapter_43.xlsx
+2025-12-04 10:56:02,429 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_44.xlsx
+2025-12-04 10:56:02,719 [INFO] Parsed 657 rows from Chapter_44.xlsx
+2025-12-04 10:56:02,719 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_45.xlsx
+2025-12-04 10:56:02,748 [INFO] Parsed 6 rows from Chapter_45.xlsx
+2025-12-04 10:56:02,748 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_46.xlsx
+2025-12-04 10:56:02,792 [INFO] Parsed 67 rows from Chapter_46.xlsx
+2025-12-04 10:56:02,792 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_47.xlsx
+2025-12-04 10:56:02,840 [INFO] Parsed 4 rows from Chapter_47.xlsx
+2025-12-04 10:56:02,840 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_48.xlsx
+2025-12-04 10:56:03,025 [INFO] Parsed 319 rows from Chapter_48.xlsx
+2025-12-04 10:56:03,027 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_49.xlsx
+2025-12-04 10:56:03,073 [INFO] Parsed 37 rows from Chapter_49.xlsx
+2025-12-04 10:56:03,073 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_50.xlsx
+2025-12-04 10:56:03,110 [INFO] Parsed 28 rows from Chapter_50.xlsx
+2025-12-04 10:56:03,110 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_51.xlsx
+2025-12-04 10:56:03,190 [INFO] Parsed 120 rows from Chapter_51.xlsx
+2025-12-04 10:56:03,202 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_52.xlsx
+2025-12-04 10:56:03,512 [INFO] Parsed 657 rows from Chapter_52.xlsx
+2025-12-04 10:56:03,513 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_53.xlsx
+2025-12-04 10:56:03,580 [INFO] Parsed 53 rows from Chapter_53.xlsx
+2025-12-04 10:56:03,580 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_54.xlsx
+2025-12-04 10:56:03,741 [INFO] Parsed 327 rows from Chapter_54.xlsx
+2025-12-04 10:56:03,741 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_55.xlsx
+2025-12-04 10:56:03,928 [INFO] Parsed 386 rows from Chapter_55.xlsx
+2025-12-04 10:56:03,928 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_56.xlsx
+2025-12-04 10:56:03,994 [INFO] Parsed 68 rows from Chapter_56.xlsx
+2025-12-04 10:56:03,994 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_57.xlsx
+2025-12-04 10:56:04,061 [INFO] Parsed 67 rows from Chapter_57.xlsx
+2025-12-04 10:56:04,061 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_58.xlsx
+2025-12-04 10:56:04,138 [INFO] Parsed 88 rows from Chapter_58.xlsx
+2025-12-04 10:56:04,138 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_59.xlsx
+2025-12-04 10:56:04,194 [INFO] Parsed 57 rows from Chapter_59.xlsx
+2025-12-04 10:56:04,202 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_60.xlsx
+2025-12-04 10:56:04,280 [INFO] Parsed 96 rows from Chapter_60.xlsx
+2025-12-04 10:56:04,280 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_61.xlsx
+2025-12-04 10:56:04,701 [INFO] Parsed 1106 rows from Chapter_61.xlsx
+2025-12-04 10:56:04,701 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_62.xlsx
+2025-12-04 10:56:05,370 [INFO] Parsed 1851 rows from Chapter_62.xlsx
+2025-12-04 10:56:05,370 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_63.xlsx
+2025-12-04 10:56:05,522 [INFO] Parsed 264 rows from Chapter_63.xlsx
+2025-12-04 10:56:05,522 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_64.xlsx
+2025-12-04 10:56:05,766 [INFO] Parsed 601 rows from Chapter_64.xlsx
+2025-12-04 10:56:05,766 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_65.xlsx
+2025-12-04 10:56:05,828 [INFO] Parsed 86 rows from Chapter_65.xlsx
+2025-12-04 10:56:05,828 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_66.xlsx
+2025-12-04 10:56:05,853 [INFO] Parsed 0 rows from Chapter_66.xlsx
+2025-12-04 10:56:05,853 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_67.xlsx
+2025-12-04 10:56:05,879 [INFO] Parsed 2 rows from Chapter_67.xlsx
+2025-12-04 10:56:05,880 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_68.xlsx
+2025-12-04 10:56:05,953 [INFO] Parsed 72 rows from Chapter_68.xlsx
+2025-12-04 10:56:05,953 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_69.xlsx
+2025-12-04 10:56:06,038 [INFO] Parsed 131 rows from Chapter_69.xlsx
+2025-12-04 10:56:06,038 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_70.xlsx
+2025-12-04 10:56:06,199 [INFO] Parsed 327 rows from Chapter_70.xlsx
+2025-12-04 10:56:06,199 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_71.xlsx
+2025-12-04 10:56:06,324 [INFO] Parsed 127 rows from Chapter_71.xlsx
+2025-12-04 10:56:06,324 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_72.xlsx
+2025-12-04 10:56:06,650 [INFO] Parsed 621 rows from Chapter_72.xlsx
+2025-12-04 10:56:06,650 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_73.xlsx
+2025-12-04 10:56:06,956 [INFO] Parsed 714 rows from Chapter_73.xlsx
+2025-12-04 10:56:06,956 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_74.xlsx
+2025-12-04 10:56:07,060 [INFO] Parsed 132 rows from Chapter_74.xlsx
+2025-12-04 10:56:07,060 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_75.xlsx
+2025-12-04 10:56:07,104 [INFO] Parsed 16 rows from Chapter_75.xlsx
+2025-12-04 10:56:07,106 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_76.xlsx
+2025-12-04 10:56:07,199 [INFO] Parsed 121 rows from Chapter_76.xlsx
+2025-12-04 10:56:07,199 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_78.xlsx
+2025-12-04 10:56:07,225 [INFO] Parsed 4 rows from Chapter_78.xlsx
+2025-12-04 10:56:07,225 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_79.xlsx
+2025-12-04 10:56:07,247 [INFO] Parsed 2 rows from Chapter_79.xlsx
+2025-12-04 10:56:07,254 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_80.xlsx
+2025-12-04 10:56:07,275 [INFO] Parsed 0 rows from Chapter_80.xlsx
+2025-12-04 10:56:07,278 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_81.xlsx
+2025-12-04 10:56:07,342 [INFO] Parsed 36 rows from Chapter_81.xlsx
+2025-12-04 10:56:07,342 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_82.xlsx
+2025-12-04 10:56:07,461 [INFO] Parsed 155 rows from Chapter_82.xlsx
+2025-12-04 10:56:07,461 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_83.xlsx
+2025-12-04 10:56:07,532 [INFO] Parsed 60 rows from Chapter_83.xlsx
+2025-12-04 10:56:07,532 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_84.xlsx
+2025-12-04 10:56:08,425 [INFO] Parsed 1570 rows from Chapter_84.xlsx
+2025-12-04 10:56:08,425 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_85.xlsx
+2025-12-04 10:56:08,920 [INFO] Parsed 910 rows from Chapter_85.xlsx
+2025-12-04 10:56:08,920 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_86.xlsx
+2025-12-04 10:56:08,965 [INFO] Parsed 22 rows from Chapter_86.xlsx
+2025-12-04 10:56:08,965 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_87.xlsx
+2025-12-04 10:56:09,190 [INFO] Parsed 405 rows from Chapter_87.xlsx
+2025-12-04 10:56:09,190 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_88.xlsx
+2025-12-04 10:56:09,247 [INFO] Parsed 59 rows from Chapter_88.xlsx
+2025-12-04 10:56:09,247 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_89.xlsx
+2025-12-04 10:56:09,389 [INFO] Parsed 53 rows from Chapter_89.xlsx
+2025-12-04 10:56:09,389 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_90.xlsx
+2025-12-04 10:56:09,608 [INFO] Parsed 323 rows from Chapter_90.xlsx
+2025-12-04 10:56:09,608 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_91.xlsx
+2025-12-04 10:56:09,752 [INFO] Parsed 197 rows from Chapter_91.xlsx
+2025-12-04 10:56:09,752 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_92.xlsx
+2025-12-04 10:56:09,805 [INFO] Parsed 52 rows from Chapter_92.xlsx
+2025-12-04 10:56:09,805 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_93.xlsx
+2025-12-04 10:56:09,859 [INFO] Parsed 57 rows from Chapter_93.xlsx
+2025-12-04 10:56:09,859 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_94.xlsx
+2025-12-04 10:56:10,031 [INFO] Parsed 337 rows from Chapter_94.xlsx
+2025-12-04 10:56:10,032 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_95.xlsx
+2025-12-04 10:56:10,120 [INFO] Parsed 102 rows from Chapter_95.xlsx
+2025-12-04 10:56:10,120 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_96.xlsx
+2025-12-04 10:56:10,212 [INFO] Parsed 86 rows from Chapter_96.xlsx
+2025-12-04 10:56:10,221 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_97.xlsx
+2025-12-04 10:56:10,253 [INFO] Parsed 10 rows from Chapter_97.xlsx
+2025-12-04 10:56:10,253 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_98.xlsx
+2025-12-04 10:56:10,457 [INFO] Parsed 231 rows from Chapter_98.xlsx
+2025-12-04 10:56:10,457 [INFO] Parsing c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\chapters\Chapter_99.xlsx
+2025-12-04 10:56:12,132 [INFO] Parsed 765 rows from Chapter_99.xlsx
+2025-12-04 11:04:17,670 [INFO] Loading CSV into DB: c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\parsed\hts_all_chapters.csv
+2025-12-04 11:04:17,673 [INFO] Directory ready: c:\Users\venga\Trump-tariff\Trump-tariff-api\pipeline\parsed
+2025-12-04 11:04:18,777 [INFO] Table product_table ready or already exists.
+2025-12-04 11:04:19,230 [INFO] Inserted records 1 to 500
+2025-12-04 11:04:19,379 [INFO] Inserted records 501 to 1000
+2025-12-04 11:04:19,449 [INFO] Inserted records 1001 to 1500
+2025-12-04 11:04:19,535 [INFO] Inserted records 1501 to 2000
+2025-12-04 11:04:19,593 [INFO] Inserted records 2001 to 2500
+2025-12-04 11:04:19,652 [INFO] Inserted records 2501 to 3000
+2025-12-04 11:04:19,711 [INFO] Inserted records 3001 to 3500
+2025-12-04 11:04:19,762 [INFO] Inserted records 3501 to 4000
+2025-12-04 11:04:19,817 [INFO] Inserted records 4001 to 4500
+2025-12-04 11:04:19,873 [INFO] Inserted records 4501 to 5000
+2025-12-04 11:04:19,932 [INFO] Inserted records 5001 to 5500
+2025-12-04 11:04:19,983 [INFO] Inserted records 5501 to 6000
+2025-12-04 11:04:20,085 [INFO] Inserted records 6001 to 6500
+2025-12-04 11:04:20,142 [INFO] Inserted records 6501 to 7000
+2025-12-04 11:04:20,196 [INFO] Inserted records 7001 to 7500
+2025-12-04 11:04:20,249 [INFO] Inserted records 7501 to 8000
+2025-12-04 11:04:20,298 [INFO] Inserted records 8001 to 8500
+2025-12-04 11:04:20,342 [INFO] Inserted records 8501 to 9000
+2025-12-04 11:04:20,395 [INFO] Inserted records 9001 to 9500
+2025-12-04 11:04:20,463 [INFO] Inserted records 9501 to 10000
+2025-12-04 11:04:20,528 [INFO] Inserted records 10001 to 10500
+2025-12-04 11:04:20,591 [INFO] Inserted records 10501 to 11000
+2025-12-04 11:04:20,655 [INFO] Inserted records 11001 to 11500
+2025-12-04 11:04:20,757 [INFO] Inserted records 11501 to 12000
+2025-12-04 11:04:20,825 [INFO] Inserted records 12001 to 12500
+2025-12-04 11:04:20,881 [INFO] Inserted records 12501 to 13000
+2025-12-04 11:04:20,940 [INFO] Inserted records 13001 to 13500
+2025-12-04 11:04:20,998 [INFO] Inserted records 13501 to 14000
+2025-12-04 11:04:21,057 [INFO] Inserted records 14001 to 14500
+2025-12-04 11:04:21,113 [INFO] Inserted records 14501 to 15000
+2025-12-04 11:04:21,171 [INFO] Inserted records 15001 to 15500
+2025-12-04 11:04:21,231 [INFO] Inserted records 15501 to 16000
+2025-12-04 11:04:21,285 [INFO] Inserted records 16001 to 16500
+2025-12-04 11:04:21,341 [INFO] Inserted records 16501 to 17000
+2025-12-04 11:04:21,396 [INFO] Inserted records 17001 to 17500
+2025-12-04 11:04:21,498 [INFO] Inserted records 17501 to 18000
+2025-12-04 11:04:21,555 [INFO] Inserted records 18001 to 18500
+2025-12-04 11:04:21,615 [INFO] Inserted records 18501 to 19000
+2025-12-04 11:04:21,677 [INFO] Inserted records 19001 to 19500
+2025-12-04 11:04:21,729 [INFO] Inserted records 19501 to 20000
+2025-12-04 11:04:21,785 [INFO] Inserted records 20001 to 20500
+2025-12-04 11:04:21,851 [INFO] Inserted records 20501 to 21000
+2025-12-04 11:04:21,874 [INFO] Inserted records 21001 to 21093
+2025-12-04 11:04:21,874 [INFO] CSV data loaded into DB successfully.
+2025-12-04 11:04:21,878 [INFO] Database connection closed.
