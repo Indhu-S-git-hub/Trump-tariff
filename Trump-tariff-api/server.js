@@ -1,3 +1,4 @@
+// server.js
 const express = require("express");
 const cors = require("cors");
 const dotenv = require("dotenv");
@@ -9,17 +10,23 @@ dotenv.config();
 const { sequelize, User } = require("./models");
 
 const app = express();
+
+// ----- MIDDLEWARE -----
 app.use(cors());
 app.use(express.json());
 
 const JWT_SECRET = process.env.JWT_SECRET || "super_secret_jwt_key";
 
-// Health check
+// ----- AGREEMENT ROUTES (for your UI page) -----
+const agreementRoutes = require("./routes/agreementRoutes");
+app.use("/api/agreements", agreementRoutes);
+
+// ----- BASIC HEALTH CHECK -----
 app.get("/", (req, res) => {
   res.json({ message: "Trump Tariff API running" });
 });
 
-// Signup (for "Sign Up" link)
+// ----- AUTH ROUTES (signup & login) -----
 app.post("/api/auth/signup", async (req, res) => {
   try {
     const { username, email, password, role } = req.body;
@@ -35,17 +42,18 @@ app.post("/api/auth/signup", async (req, res) => {
       username,
       email,
       password: hashed,
-      role: role || "user"
+      role: role || "user",
     });
 
-    res.status(201).json({ id: user.id, username: user.username, email: user.email });
+    res
+      .status(201)
+      .json({ id: user.id, username: user.username, email: user.email });
   } catch (err) {
     console.error(err);
     res.status(500).json({ message: "Signup failed" });
   }
 });
 
-// Login
 app.post("/api/auth/login", async (req, res) => {
   try {
     const { email, password, asAdmin } = req.body;
@@ -76,8 +84,8 @@ app.post("/api/auth/login", async (req, res) => {
         id: user.id,
         username: user.username,
         email: user.email,
-        role: user.role
-      }
+        role: user.role,
+      },
     });
   } catch (err) {
     console.error(err);
@@ -85,7 +93,7 @@ app.post("/api/auth/login", async (req, res) => {
   }
 });
 
-// Simple protected route example
+// ----- SIMPLE PROTECTED ROUTE EXAMPLE -----
 function authMiddleware(req, res, next) {
   const authHeader = req.headers["authorization"];
   if (!authHeader) return res.sendStatus(401);
@@ -104,10 +112,16 @@ app.get("/api/protected", authMiddleware, (req, res) => {
   res.json({ message: "Protected data", user: req.user });
 });
 
+// ----- START SERVER AFTER DB SYNC -----
 const PORT = process.env.PORT || 5000;
 
-sequelize.sync().then(() => {
-  app.listen(PORT, () => {
-    console.log(`API running on port ${PORT}`);
+sequelize
+  .sync()
+  .then(() => {
+    app.listen(PORT, () => {
+      console.log(`API running on port ${PORT}`);
+    });
+  })
+  .catch((err) => {
+    console.error("Failed to sync DB:", err);
   });
-});
