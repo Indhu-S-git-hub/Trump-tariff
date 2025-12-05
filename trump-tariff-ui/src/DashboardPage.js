@@ -6,7 +6,6 @@ import "./App.css";
 
 import calculatorIcon from "./assets/calculator.png";
 
-
 const API_BASE = "http://localhost:5000";
 
 function DashboardPage() {
@@ -98,7 +97,7 @@ function DashboardPage() {
             <h1>Trump Tariff Impact Analysis</h1>
             <p>
               Welcome,{" "}
-              <strong>{data.user?.username || data.user?.email}</strong>
+              <strong>{data.user?.username || data.user?.email || "User"}</strong>
             </p>
           </div>
           <div className="topbar-actions">
@@ -117,38 +116,37 @@ function DashboardPage() {
 
         {/* Quick actions */}
         <section className="quick-actions">
-  {data.quickActions.map((qa) => (
-    <div key={qa.id} className="quick-card">
-      <div className="quick-icon">
-        {qa.id === 3 ? (
-          <img
-            src={calculatorIcon}
-            alt="Cost Calculator"
-            className="quick-icon-img"
-          />
-        ) : qa.id === 1 ? (
-          "🌐"
-        ) : qa.id === 2 ? (
-          "📈"
-        ) : (
-          "🔄"
-        )}
-      </div>
-      <div className="quick-text">
-        <h3>{qa.title}</h3>
-        <p>
-          {qa.id === 1 && "Analyze trade volumes and agreements by industry."}
-          {qa.id === 2 && "Compare tariff impacts across different periods."}
-          {qa.id === 3 && "Calculate landed costs with all fees included."}
-          {qa.id === 4 && "Track currency trends and volatility."}
-        </p>
-      </div>
-    </div>
-  ))}
-</section>
+          {(data.quickActions || []).map((qa) => (
+            <div key={qa?.id || Math.random()} className="quick-card">
+              <div className="quick-icon">
+                {qa?.id === 3 ? (
+                  <img
+                    src={calculatorIcon}
+                    alt="Cost Calculator"
+                    className="quick-icon-img"
+                  />
+                ) : qa?.id === 1 ? (
+                  "🌐"
+                ) : qa?.id === 2 ? (
+                  "📈"
+                ) : (
+                  "🔄"
+                )}
+              </div>
+              <div className="quick-text">
+                <h3>{qa?.title || "Quick Action"}</h3>
+                <p>
+                  {qa?.id === 1 && "Analyze trade volumes and agreements by industry."}
+                  {qa?.id === 2 && "Compare tariff impacts across different periods."}
+                  {qa?.id === 3 && "Calculate landed costs with all fees included."}
+                  {qa?.id === 4 && "Track currency trends and volatility."}
+                </p>
+              </div>
+            </div>
+          ))}
+        </section>
 
-
-        {/* Bottom grid: Recent analyses + Key insights */}
+        {/* Bottom grid */}
         <section className="dashboard-grid">
           <div className="panel recent-panel">
             <div className="panel-header">
@@ -156,13 +154,13 @@ function DashboardPage() {
               <button className="link-button">View All</button>
             </div>
             <ul className="recent-list">
-              {data.recentAnalyses.map((item) => (
-                <li key={item.id} className="recent-item">
+              {(data.recentAnalyses || []).map((item, index) => (
+                <li key={item?.id || index} className="recent-item">
                   <div className="recent-main">
-                    <div className="recent-title">{item.title}</div>
-                    <div className="recent-time">{item.time}</div>
+                    <div className="recent-title">{item?.title || "Analysis"}</div>
+                    <div className="recent-time">{item?.time || "Just now"}</div>
                   </div>
-                  <span className="status-pill">{item.status}</span>
+                  <span className="status-pill">{item?.status || "Pending"}</span>
                 </li>
               ))}
             </ul>
@@ -173,10 +171,10 @@ function DashboardPage() {
               <h3>Key Insights</h3>
             </div>
             <ul className="insights-list">
-              {data.keyInsights.map((k) => (
-                <li key={k.id} className="insight-row">
-                  <span className="insight-label">{k.label}</span>
-                  <span className="insight-value">{k.value}</span>
+              {(data.keyInsights || []).map((k, index) => (
+                <li key={k?.id || index} className="insight-row">
+                  <span className="insight-label">{k?.label || "Insight"}</span>
+                  <span className="insight-value">{k?.value || "N/A"}</span>
                 </li>
               ))}
             </ul>

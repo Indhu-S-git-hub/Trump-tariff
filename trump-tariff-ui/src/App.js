@@ -1,35 +1,36 @@
+// src/App.js
 import React from "react";
-import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
+import { Routes, Route, Navigate } from "react-router-dom";
 
-import LoginPage from "./pages/LoginPage";
-import AgreementsManagementPage from "./pages/AgreementsManagementPage";
-
+// Import your existing pages
+import LoginPage from "./LoginPage";
 import SignupPage from "./SignupPage";
 import DashboardPage from "./DashboardPage";
 import AdminDashboardPage from "./AdminDashboardPage";
+import AgreementsManagementPage from "./pages/AgreementsManagementPage";
 
 function App() {
   return (
-    <BrowserRouter>
-      <Routes>
-        {/* Login Page */}
-        <Route path="/" element={<LoginPage />} />
-        <Route path="/login" element={<LoginPage />} />
+    <Routes>
+      {/* Login */}
+      <Route path="/" element={<LoginPage />} />
+      <Route path="/login" element={<LoginPage />} />
 
-        {/* Signup Page */}
-        <Route path="/signup" element={<SignupPage />} />
+      {/* Signup */}
+      <Route path="/signup" element={<SignupPage />} />
 
-        {/* Agreements */}
-        <Route path="/agreements" element={<AgreementsManagementPage />} />
+      {/* Agreements Management */}
+      <Route path="/agreements" element={<AgreementsManagementPage />} />
 
-        {/* Dashboards */}
-        <Route path="/dashboard" element={<DashboardPage />} />
-        <Route path="/admin-dashboard" element={<AdminDashboardPage />} />
+      {/* User Dashboard */}
+      <Route path="/dashboard" element={<DashboardPage />} />
 
-        {/* Redirect anything else to login */}
-        <Route path="*" element={<Navigate to="/login" />} />
-      </Routes>
-    </BrowserRouter>
+      {/* Admin Dashboard */}
+      <Route path="/admin-dashboard" element={<AdminDashboardPage />} />
+
+      {/* Redirect any unknown routes to login */}
+      <Route path="*" element={<Navigate to="/login" replace />} />
+    </Routes>
   );
 }
 

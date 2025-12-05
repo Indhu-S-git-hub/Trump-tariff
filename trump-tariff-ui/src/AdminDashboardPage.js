@@ -83,42 +83,42 @@ function AdminDashboardPage() {
             <h1>Administrator Dashboard</h1>
             <p>Manage users, content, and system settings for TariffIntel.</p>
           </div>
-          
         </header>
 
-        {/* KPI cards */}
+        {/* KPI cards - FIXED */}
         <section className="admin-kpi-row">
           <div className="admin-kpi-card">
             <div className="admin-kpi-label">Total Users</div>
-            <div className="admin-kpi-value">{summary.totalUsers}</div>
+            <div className="admin-kpi-value">{summary.totalUsers || 0}</div>
             <div className="admin-kpi-sub">+42 this month</div>
           </div>
           <div className="admin-kpi-card">
             <div className="admin-kpi-label">Active Sessions</div>
-            <div className="admin-kpi-value">{summary.activeSessions}</div>
+            <div className="admin-kpi-value">{summary.activeSessions || 0}</div>
             <div className="admin-kpi-sub">+15 from yesterday</div>
           </div>
           <div className="admin-kpi-card">
             <div className="admin-kpi-label">Total Queries</div>
-            <div className="admin-kpi-value">{summary.totalQueries}</div>
+            <div className="admin-kpi-value">{summary.totalQueries || 0}</div>
             <div className="admin-kpi-sub">This week</div>
           </div>
           <div className="admin-kpi-card">
             <div className="admin-kpi-label">System Health</div>
             <div className="admin-kpi-value">
-              {summary.systemHealth.toFixed(1)}%
+              {(summary.systemHealth || 0).toFixed(1)}%
             </div>
             <div className="admin-kpi-sub">All systems operational</div>
           </div>
         </section>
 
-        {/* Admin functions with title and logos */}
+        {/* Admin functions */}
         <section>
           <div className="admin-section-header">
             <h2>Admin Functions</h2>
           </div>
 
           <div className="admin-functions-grid">
+            {/* Example: User Management */}
             <div className="admin-function-card">
               <div className="admin-func-icon user">
                 <span>👥</span>
@@ -127,11 +127,12 @@ function AdminDashboardPage() {
                 <h3>User Management</h3>
                 <p>Manage user accounts, roles, and permissions.</p>
                 <span className="admin-function-meta">
-                  {summary.totalUsers} users
+                  {summary.totalUsers || 0} users
                 </span>
               </div>
             </div>
 
+            {/* Agreements Management */}
             <div className="admin-function-card">
               <div className="admin-func-icon agreements">
                 <span>📄</span>
@@ -143,6 +144,7 @@ function AdminDashboardPage() {
               </div>
             </div>
 
+            {/* Country Database */}
             <div className="admin-function-card">
               <div className="admin-func-icon country">
                 <span>🌍</span>
@@ -154,6 +156,7 @@ function AdminDashboardPage() {
               </div>
             </div>
 
+            {/* Product Library */}
             <div className="admin-function-card">
               <div className="admin-func-icon product">
                 <span>📦</span>
@@ -165,6 +168,7 @@ function AdminDashboardPage() {
               </div>
             </div>
 
+            {/* Reports */}
             <div className="admin-function-card">
               <div className="admin-func-icon reports">
                 <span>📊</span>
@@ -176,6 +180,7 @@ function AdminDashboardPage() {
               </div>
             </div>
 
+            {/* News Feed */}
             <div className="admin-function-card">
               <div className="admin-func-icon news">
                 <span>📰</span>
@@ -187,52 +192,6 @@ function AdminDashboardPage() {
               </div>
             </div>
           </div>
-        </section>
-
-        {/* System activity chart placeholder */}
-        <section className="admin-panel">
-          <div className="panel-header">
-            <h3>System Activity (Last 7 Days)</h3>
-          </div>
-          <div className="admin-chart-placeholder">
-            <div className="admin-chart-line" />
-            <div className="admin-chart-axis-labels">
-              <span>Nov 20</span>
-              <span>Nov 21</span>
-              <span>Nov 22</span>
-              <span>Nov 23</span>
-              <span>Nov 24</span>
-              <span>Nov 25</span>
-              <span>Nov 26</span>
-            </div>
-          </div>
-        </section>
-
-        {/* Recent activity from recentUsers */}
-        <section className="admin-panel">
-          <div className="panel-header">
-            <h3>Recent Activity</h3>
-          </div>
-          <ul className="admin-activity-list">
-            {summary.recentUsers.map((u, index) => (
-              <li key={u.id} className="admin-activity-item">
-                <span
-                  className={`admin-activity-dot ${
-                    ["blue", "green", "orange", "purple", "gray"][index] ||
-                    "blue"
-                  }`}
-                />
-                <div className="admin-activity-main">
-                  <div className="admin-activity-title">
-                    New user registered: {u.email}
-                  </div>
-                  <div className="admin-activity-time">
-                    Username: {u.username} • Role: {u.role}
-                  </div>
-                </div>
-              </li>
-            ))}
-          </ul>
         </section>
       </main>
     </div>
