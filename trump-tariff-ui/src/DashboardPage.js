@@ -6,7 +6,6 @@ import "./App.css";
 
 import calculatorIcon from "./assets/calculator.png";
 
-
 const API_BASE = "http://localhost:5000";
 
 function DashboardPage() {
@@ -55,6 +54,10 @@ function DashboardPage() {
     navigate("/login");
   };
 
+  const goToForexAnalysis = () => {
+    navigate("/forex-analysis");
+  };
+
   if (error) {
     return <div className="page-center">Error: {error}</div>;
   }
@@ -78,7 +81,15 @@ function DashboardPage() {
           <button className="nav-item">Tariff Impact Analysis</button>
           <button className="nav-item">Taxation Module</button>
           <button className="nav-item">Trade Comparison</button>
-          <button className="nav-item">Forex Analysis</button>
+
+          
+          <button
+            className="nav-item"
+            onClick={goToForexAnalysis}
+          >
+            Forex Analysis
+          </button>
+
           <button className="nav-item">Cost Calculator</button>
           <button className="nav-item">Data Manager</button>
           <button className="nav-item">News</button>
@@ -110,43 +121,52 @@ function DashboardPage() {
         <section className="welcome-banner">
           <h2>Welcome to TariffIntel</h2>
           <p>
-            Comprehensive analysis tools for understanding global tariff impacts
-            and trade dynamics.
+            Comprehensive analysis tools for understanding global tariff
+            impacts and trade dynamics.
           </p>
         </section>
 
         {/* Quick actions */}
         <section className="quick-actions">
-  {data.quickActions.map((qa) => (
-    <div key={qa.id} className="quick-card">
-      <div className="quick-icon">
-        {qa.id === 3 ? (
-          <img
-            src={calculatorIcon}
-            alt="Cost Calculator"
-            className="quick-icon-img"
-          />
-        ) : qa.id === 1 ? (
-          "🌐"
-        ) : qa.id === 2 ? (
-          "📈"
-        ) : (
-          "🔄"
-        )}
-      </div>
-      <div className="quick-text">
-        <h3>{qa.title}</h3>
-        <p>
-          {qa.id === 1 && "Analyze trade volumes and agreements by industry."}
-          {qa.id === 2 && "Compare tariff impacts across different periods."}
-          {qa.id === 3 && "Calculate landed costs with all fees included."}
-          {qa.id === 4 && "Track currency trends and volatility."}
-        </p>
-      </div>
-    </div>
-  ))}
-</section>
-
+          {data.quickActions.map((qa) => (
+            <div
+              key={qa.id}
+              className="quick-card"
+              // Make only the Forex card clickable for navigation
+              onClick={qa.id === 4 ? goToForexAnalysis : undefined}
+              style={qa.id === 4 ? { cursor: "pointer" } : {}}
+            >
+              <div className="quick-icon">
+                {qa.id === 3 ? (
+                  <img
+                    src={calculatorIcon}
+                    alt="Cost Calculator"
+                    className="quick-icon-img"
+                  />
+                ) : qa.id === 1 ? (
+                  "🌐"
+                ) : qa.id === 2 ? (
+                  "📈"
+                ) : (
+                  "🔄"
+                )}
+              </div>
+              <div className="quick-text">
+                <h3>{qa.title}</h3>
+                <p>
+                  {qa.id === 1 &&
+                    "Analyze trade volumes and agreements by industry."}
+                  {qa.id === 2 &&
+                    "Compare tariff impacts across different periods."}
+                  {qa.id === 3 &&
+                    "Calculate landed costs with all fees included."}
+                  {qa.id === 4 &&
+                    "Track currency trends and volatility."}
+                </p>
+              </div>
+            </div>
+          ))}
+        </section>
 
         {/* Bottom grid: Recent analyses + Key insights */}
         <section className="dashboard-grid">

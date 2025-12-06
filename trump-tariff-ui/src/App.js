@@ -1,26 +1,37 @@
 // src/App.js
 import React from "react";
-import { Routes, Route, Navigate } from "react-router-dom";
+import {
+  BrowserRouter,
+  Routes,
+  Route,
+  Navigate,
+} from "react-router-dom";
+
 import LoginPage from "./LoginPage";
 import SignupPage from "./SignupPage";
-import DashboardPage from "./DashboardPage";        // user dashboard
-import AdminDashboardPage from "./AdminDashboardPage"; // admin dashboard
+import DashboardPage from "./DashboardPage";
+import AdminDashboardPage from "./AdminDashboardPage";
+import ForexAnalysisPage from "./ForexAnalysisPage";
 
 function App() {
   return (
-    <Routes>
-      <Route path="/login" element={<LoginPage />} />
-      <Route path="/signup" element={<SignupPage />} />
+    <BrowserRouter>
+      <Routes>
+        {/* auth */}
+        <Route path="/login" element={<LoginPage />} />
+        <Route path="/signup" element={<SignupPage />} />
 
-      {/* user dashboard route */}
-      <Route path="/dashboard" element={<DashboardPage />} />
+        {/* dashboards */}
+        <Route path="/dashboard" element={<DashboardPage />} />
+        <Route path="/admin-dashboard" element={<AdminDashboardPage />} />
 
-      {/* admin dashboard route */}
-      <Route path="/admin-dashboard" element={<AdminDashboardPage />} />
+        {/* forex */}
+        <Route path="/forex-analysis" element={<ForexAnalysisPage />} />
 
-      {/* redirect / and anything else to /login */}
-      <Route path="*" element={<Navigate to="/login" />} />
-    </Routes>
+        {/* catch-all */}
+        <Route path="*" element={<Navigate to="/login" replace />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
