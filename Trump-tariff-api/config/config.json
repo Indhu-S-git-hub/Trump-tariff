@@ -3,7 +3,7 @@
     "username": "Tariff-analyzer",
     "password": "Trump@2025",
     "database": "trump_tariff_db",
-    "host": "127.0.0.1",
+    "host": "10.195.156.72",
     "dialect": "mysql"
   },
   "test": {
